@@ -1,0 +1,113 @@
+{
+  "series": "apollo_short_drama",
+  "source_dir": "D:\\web_scraping\\tiktok_search_output",
+  "output_dir": "D:\\web_scraping\\output\\by_series\\but_he_is_apollo",
+  "source_files_unchanged": true,
+  "timezone": {
+    "local_tz_label": "Malay Peninsula Standard Time",
+    "local_utc_offset_hours": 8.0
+  },
+  "reconciliation": {
+    "video_records_in_global": 228,
+    "comment_records_in_global": 27349,
+    "video_duplicates_removed_global": 144,
+    "comment_duplicates_removed_global": 19114,
+    "videos_in_series": 45,
+    "comments_in_series": 3741
+  },
+  "flags": {
+    "is_empty_text": 948,
+    "is_empty_after_clean": 955,
+    "has_placeholder": 3,
+    "is_too_short": 1117,
+    "is_self_promo": 2,
+    "is_repeat_poster": 52,
+    "has_mention": 12,
+    "has_url": 4,
+    "is_reply": 760,
+    "liked_by_author": 191,
+    "lang_ambiguous": 1200,
+    "nlp_ready_rows": 2731,
+    "nlp_ready_excluded": 1010
+  },
+  "topic_confidence_distribution": {
+    "high": 45
+  },
+  "uploaders": [
+    "boothsdramavault",
+    "drama.vault.tv",
+    "drama.vault4",
+    "drama_vault0001",
+    "dramavaul01",
+    "dramavault14",
+    "dramavault56",
+    "dramavault_eg",
+    "music.men02",
+    "narravault.storie",
+    "peakcomedyy_",
+    "short.drama.serie80",
+    "sndba02",
+    "storyvault.africa",
+    "tale.vault_1_ca",
+    "tale.vault_1_id",
+    "tessvault",
+    "vaultofdrama",
+    "vaultreel_ca"
+  ],
+  "lang_detected_distribution": {
+    "undetected": 1200,
+    "en": 985,
+    "fr": 513,
+    "cs": 211,
+    "ar": 155,
+    "so": 68,
+    "ca": 58,
+    "cy": 52,
+    "nl": 43,
+    "da": 37,
+    "ro": 36,
+    "tl": 32,
+    "af": 32,
+    "id": 30,
+    "es": 30
+  },
+  "lang_reported_distribution": {
+    "en": 2144,
+    "un": 1073,
+    "ar": 182,
+    "es": 56,
+    "fr": 41,
+    "id": 36,
+    "tl": 30,
+    "th": 20,
+    "it": 16,
+    "pt": 14,
+    "my": 14,
+    "ms": 14,
+    "tr": 8,
+    "ja": 8,
+    "vi": 8
+  },
+  "validation": {
+    "series": "apollo_short_drama",
+    "videos": 45,
+    "comments": 3741,
+    "unique_cids": 3741,
+    "orphan_video_id_refs": 0,
+    "orphan_parent_cid_refs": 0,
+    "empty_text_flag_mismatches": 0,
+    "placeholder_flag_mismatches": 0,
+    "passed": true,
+    "failures": []
+  },
+  "outputs": [
+    "videos.jsonl",
+    "videos.csv",
+    "comments.jsonl",
+    "comments.csv",
+    "all_comments.jsonl",
+    "nlp_ready.jsonl",
+    "corpus_clean.txt",
+    "report.json"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "series": "crow",
+  "source_dir": "D:\\web_scraping\\tiktok_search_output",
+  "output_dir": "D:\\web_scraping\\output\\by_series\\not_your_average_crow",
+  "source_files_unchanged": true,
+  "timezone": {
+    "local_tz_label": "Malay Peninsula Standard Time",
+    "local_utc_offset_hours": 8.0
+  },
+  "reconciliation": {
+    "video_records_in_global": 228,
+    "comment_records_in_global": 27349,
+    "video_duplicates_removed_global": 144,
+    "comment_duplicates_removed_global": 19114,
+    "videos_in_series": 3,
+    "comments_in_series": 139
+  },
+  "flags": {
+    "is_empty_text": 39,
+    "is_empty_after_clean": 40,
+    "has_placeholder": 1,
+    "is_too_short": 51,
+    "is_self_promo": 2,
+    "is_repeat_poster": 0,
+    "has_mention": 2,
+    "has_url": 0,
+    "is_reply": 29,
+    "liked_by_author": 3,
+    "lang_ambiguous": 55,
+    "nlp_ready_rows": 96,
+    "nlp_ready_excluded": 43
+  },
+  "topic_confidence_distribution": {
+    "high": 3
+  },
+  "uploaders": [
+    "popcorn_chill_here"
+  ],
+  "lang_detected_distribution": {
+    "undetected": 55,
+    "en": 37,
+    "id": 18,
+    "fr": 5,
+    "cs": 3,
+    "tl": 3,
+    "tr": 2,
+    "no": 2,
+    "sl": 2,
+    "hr": 2,
+    "et": 2,
+    "de": 1,
+    "es": 1,
+    "it": 1,
+    "sw": 1
+  },
+  "lang_reported_distribution": {
+    "en": 60,
+    "un": 49,
+    "id": 21,
+    "es": 2,
+    "tr": 1,
+    "hi": 1,
+    "sw": 1,
+    "ms": 1,
+    "pt": 1,
+    "it": 1,
+    "fr": 1
+  },
+  "validation": {
+    "series": "crow",
+    "videos": 3,
+    "comments": 139,
+    "unique_cids": 139,
+    "orphan_video_id_refs": 0,
+    "orphan_parent_cid_refs": 0,
+    "empty_text_flag_mismatches": 0,
+    "placeholder_flag_mismatches": 0,
+    "passed": true,
+    "failures": []
+  },
+  "outputs": [
+    "videos.jsonl",
+    "videos.csv",
+    "comments.jsonl",
+    "comments.csv",
+    "all_comments.jsonl",
+    "nlp_ready.jsonl",
+    "corpus_clean.txt",
+    "report.json"
+  ]
+}

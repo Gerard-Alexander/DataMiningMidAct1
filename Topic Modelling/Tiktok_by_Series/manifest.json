@@ -1,0 +1,262 @@
+{
+  "generated_by": "clean_tiktok_by_series.py",
+  "reuses_pipeline_from": "clean_tiktok_data.py",
+  "source_dir": "D:\\web_scraping\\tiktok_search_output",
+  "output_root": "D:\\web_scraping\\output\\by_series",
+  "source_files_unchanged": true,
+  "global": {
+    "lines_in": 27602,
+    "unparsable": 0,
+    "search_records_dropped": 25,
+    "video_records_in": 228,
+    "video_records_out": 84,
+    "video_duplicates_removed": 144,
+    "comment_records_in": 27349,
+    "comment_records_out": 8235,
+    "comment_duplicates_removed": 19114
+  },
+  "dedupe_policy": "cid for comments/replies, video_id for videos; later scrape_seq wins on conflicts; split applied after the global pass",
+  "timezone": {
+    "local_tz_label": "Malay Peninsula Standard Time",
+    "local_utc_offset_hours": 8.0
+  },
+  "series_config": [
+    {
+      "label": "crow",
+      "uploaders": [
+        "popcorn_chill_here"
+      ],
+      "tags": [
+        "aishorts",
+        "notyouraveragecrow"
+      ],
+      "keywords": [
+        "average crow",
+        "the crow"
+      ],
+      "strong_keywords": []
+    },
+    {
+      "label": "stepmom",
+      "uploaders": [
+        "dramastop7"
+      ],
+      "tags": [
+        "mafiaromance",
+        "plussizebridestepmomincharge"
+      ],
+      "keywords": [
+        "stephom in charge",
+        "plus size bride",
+        "stephomincharge"
+      ],
+      "strong_keywords": []
+    },
+    {
+      "label": "temptation_island",
+      "uploaders": [],
+      "tags": [
+        "forbiddenfruit",
+        "temptationfruitisland",
+        "temptationisland",
+        "temptationisland2026",
+        "verissimo"
+      ],
+      "keywords": [
+        "temptation",
+        "verissimo",
+        "fruit island"
+      ],
+      "strong_keywords": [
+        "tayler",
+        "shante",
+        "ashley",
+        "tyler",
+        "giovanni",
+        "alessandra",
+        "rosario",
+        "montoya",
+        "gabriele",
+        "sabrina",
+        "pietro",
+        "francesca",
+        "giada",
+        "milena",
+        "nicolo",
+        "valentina",
+        "adriano",
+        "teresa",
+        "ilaria",
+        "cristian",
+        "soraya",
+        "dewtee",
+        "enkay",
+        "yasak",
+        "endercebi",
+        "enderçelebi"
+      ]
+    },
+    {
+      "label": "apollo_short_drama",
+      "uploaders": [
+        "boothsdramavault",
+        "drama.vault.tv",
+        "drama.vault4",
+        "drama_vault0001",
+        "dramavaul01",
+        "dramavault14",
+        "dramavault56",
+        "dramavault_eg",
+        "music.men02",
+        "narravault.storie",
+        "peakcomedyy_",
+        "short.drama.serie80",
+        "sndba02",
+        "storyvault.africa",
+        "tale.vault_1_ca",
+        "tale.vault_1_id",
+        "tessvault",
+        "vaultofdrama",
+        "vaultreel_ca"
+      ],
+      "tags": [
+        "africandrama",
+        "africanstories",
+        "africanstory",
+        "africanstorytelling",
+        "dramatok",
+        "minidrama",
+        "nigerianstory",
+        "nollywood",
+        "shottdrama",
+        "storyvaultafrica",
+        "swappedtoabeggarbutheisapollo",
+        "theevilstepmother",
+        "thehiddenqueen",
+        "theveteranspromise",
+        "verticalshorts"
+      ],
+      "keywords": [
+        "but he is apollo",
+        "the hidden queen",
+        "the veteran's promise",
+        "beautiful pawn"
+      ],
+      "strong_keywords": [
+        "apollo",
+        "drama vault",
+        "short.drama.serie"
+      ]
+    }
+  ],
+  "series": [
+    {
+      "series": "crow",
+      "folder": "not_your_average_crow",
+      "path": "D:\\web_scraping\\output\\by_series\\not_your_average_crow",
+      "videos": 3,
+      "comments": 139,
+      "nlp_ready": 96,
+      "uploaders": [
+        "popcorn_chill_here"
+      ],
+      "validation_passed": true
+    },
+    {
+      "series": "stepmom",
+      "folder": "stepmom_in_charge",
+      "path": "D:\\web_scraping\\output\\by_series\\stepmom_in_charge",
+      "videos": 6,
+      "comments": 545,
+      "nlp_ready": 467,
+      "uploaders": [
+        "dramastop7"
+      ],
+      "validation_passed": true
+    },
+    {
+      "series": "temptation_island",
+      "folder": "temptation_fruit_island",
+      "path": "D:\\web_scraping\\output\\by_series\\temptation_fruit_island",
+      "videos": 21,
+      "comments": 2862,
+      "nlp_ready": 2350,
+      "uploaders": [
+        "cuor3buc4to",
+        "donna.lisa00",
+        "fabrizio.colella",
+        "gangometr0",
+        "giada.lombardo",
+        "giada_anzelmo",
+        "karl.ofduty",
+        "otsunami_fanpage",
+        "popcornizme",
+        "rtlplus",
+        "tempelriddernesskat",
+        "temptationfruitisland",
+        "theycallmeplayer380",
+        "verissimotv",
+        "verolaver",
+        "www.itsmeeg"
+      ],
+      "validation_passed": true
+    },
+    {
+      "series": "apollo_short_drama",
+      "folder": "but_he_is_apollo",
+      "path": "D:\\web_scraping\\output\\by_series\\but_he_is_apollo",
+      "videos": 45,
+      "comments": 3741,
+      "nlp_ready": 2731,
+      "uploaders": [
+        "boothsdramavault",
+        "drama.vault.tv",
+        "drama.vault4",
+        "drama_vault0001",
+        "dramavaul01",
+        "dramavault14",
+        "dramavault56",
+        "dramavault_eg",
+        "music.men02",
+        "narravault.storie",
+        "peakcomedyy_",
+        "short.drama.serie80",
+        "sndba02",
+        "storyvault.africa",
+        "tale.vault_1_ca",
+        "tale.vault_1_id",
+        "tessvault",
+        "vaultofdrama",
+        "vaultreel_ca"
+      ],
+      "validation_passed": true
+    },
+    {
+      "series": "unknown_series",
+      "folder": "unknown_series",
+      "path": "D:\\web_scraping\\output\\by_series\\unknown_series",
+      "videos": 9,
+      "comments": 948,
+      "nlp_ready": 740,
+      "uploaders": [
+        "popcinema5",
+        "popcorn.by.z",
+        "popcorn.picks78",
+        "popcorn7615",
+        "popcorn_recaps17",
+        "popcorngirlfriend",
+        "popcornhoney",
+        "popcornmood123",
+        "popcornphilosoph"
+      ],
+      "validation_passed": true
+    }
+  ],
+  "unassigned_note": "_unassigned holds videos matching no configured series. Add an entry to SERIES in clean_tiktok_data.py to classify them.",
+  "split_note": "Deduplication and author/poster statistics are computed globally before splitting, so cross-batch duplicate resolution is identical to the single-corpus output.",
+  "validation": {
+    "all_series_passed": true,
+    "videos_accounted_for": true,
+    "comments_accounted_for": true
+  }
+}

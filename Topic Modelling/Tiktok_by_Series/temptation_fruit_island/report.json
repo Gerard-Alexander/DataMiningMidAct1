@@ -1,0 +1,112 @@
+{
+  "series": "temptation_island",
+  "source_dir": "D:\\web_scraping\\tiktok_search_output",
+  "output_dir": "D:\\web_scraping\\output\\by_series\\temptation_fruit_island",
+  "source_files_unchanged": true,
+  "timezone": {
+    "local_tz_label": "Malay Peninsula Standard Time",
+    "local_utc_offset_hours": 8.0
+  },
+  "reconciliation": {
+    "video_records_in_global": 228,
+    "comment_records_in_global": 27349,
+    "video_duplicates_removed_global": 144,
+    "comment_duplicates_removed_global": 19114,
+    "videos_in_series": 21,
+    "comments_in_series": 2862
+  },
+  "flags": {
+    "is_empty_text": 394,
+    "is_empty_after_clean": 477,
+    "has_placeholder": 16,
+    "is_too_short": 462,
+    "is_self_promo": 0,
+    "is_repeat_poster": 46,
+    "has_mention": 163,
+    "has_url": 0,
+    "is_reply": 1331,
+    "liked_by_author": 193,
+    "lang_ambiguous": 590,
+    "nlp_ready_rows": 2350,
+    "nlp_ready_excluded": 512
+  },
+  "topic_confidence_distribution": {
+    "high": 17,
+    "medium": 3,
+    "low": 1
+  },
+  "uploaders": [
+    "cuor3buc4to",
+    "donna.lisa00",
+    "fabrizio.colella",
+    "gangometr0",
+    "giada.lombardo",
+    "giada_anzelmo",
+    "karl.ofduty",
+    "otsunami_fanpage",
+    "popcornizme",
+    "rtlplus",
+    "tempelriddernesskat",
+    "temptationfruitisland",
+    "theycallmeplayer380",
+    "verissimotv",
+    "verolaver",
+    "www.itsmeeg"
+  ],
+  "lang_detected_distribution": {
+    "it": 1382,
+    "undetected": 590,
+    "en": 373,
+    "pt": 54,
+    "da": 54,
+    "so": 51,
+    "es": 40,
+    "lt": 29,
+    "tl": 27,
+    "fr": 25,
+    "no": 24,
+    "fi": 23,
+    "id": 19,
+    "ro": 18,
+    "cy": 17
+  },
+  "lang_reported_distribution": {
+    "it": 1591,
+    "un": 561,
+    "en": 493,
+    "da": 47,
+    "es": 39,
+    "tl": 22,
+    "de": 19,
+    "fr": 16,
+    "id": 15,
+    "hi": 7,
+    "pl": 6,
+    "tr": 5,
+    "pt": 5,
+    "co": 4,
+    "bn": 4
+  },
+  "validation": {
+    "series": "temptation_island",
+    "videos": 21,
+    "comments": 2862,
+    "unique_cids": 2862,
+    "orphan_video_id_refs": 0,
+    "orphan_parent_cid_refs": 0,
+    "empty_text_flag_mismatches": 0,
+    "placeholder_flag_mismatches": 0,
+    "passed": true,
+    "failures": []
+  },
+  "outputs": [
+    "videos.jsonl",
+    "videos.csv",
+    "comments.jsonl",
+    "comments.csv",
+    "all_comments.jsonl",
+    "nlp_ready.jsonl",
+    "corpus_clean.txt",
+    "report.json"
+  ]
+}

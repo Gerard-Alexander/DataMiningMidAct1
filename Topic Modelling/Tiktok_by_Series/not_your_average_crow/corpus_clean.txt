@@ -1,0 +1,1011 @@
+--- CLEANED CORPUS META ---
+videos: 3
+comments: 139
+topics: {"crow": 3}
+======================================================================
+
+--- VIDEO ---
+uploader: @popcorn_chill_here (zylo🫶🏻)
+video_id: 7687098688291867911
+posted_utc: 2026-09-19 04:29:05  posted_local(Malay Peninsula Standard Time): 2026-09-19 12:29:05
+views: 242000  likes: 8200  shares: 300  comment_count: 40
+topic: crow (high: uploader=@popcorn_chill_here)  off_topic: False  needs_review: False
+tags: #ai, #aishorts, #viral, #fyp, #foryou
+description: Not your average Crow [Part 4] #ai #aishorts #viral #fyp #foryou
+--- VIDEO END ---
+
+--- POST / ITEM 1 ---
+@gabriel.caspillo | 2026-09-19 06:19:06 | 0 likes
+video: 7687098688291867911
+lang: de/en  empty: False  short: False  promo: False
+good ehehehhe
+--- ITEM END ---
+
+--- POST / ITEM 2 ---
+@etclover1 | 2026-09-19 07:14:29 | 176 likes
+video: 7687098688291867911
+lang: en/en  empty: False  short: False  promo: False
+why I do love this ai video
+--- ITEM END ---
+
+--- POST / ITEM 3 ---
+@1982palaban | 2026-09-19 08:21:45 | 1 likes
+video: 7687098688291867911
+lang: ?/un  empty: False  short: True  promo: False
+♥️
+--- ITEM END ---
+
+--- POST / ITEM 4 ---
+@indaidaha | 2026-09-19 08:21:58 | 0 likes
+video: 7687098688291867911
+lang: ?/un  empty: True  short: True  promo: False
+
+--- ITEM END ---
+
+--- POST / ITEM 5 ---
+@markxarap | 2026-09-19 12:00:06 | 0 likes
+video: 7687098688291867911
+lang: ?/un  empty: True  short: True  promo: False
+
+--- ITEM END ---
+
+--- POST / ITEM 6 ---
+@diksyaz2 | 2026-09-20 01:55:54 | 19 likes | AUTHOR LIKED
+video: 7687098688291867911
+lang: en/en  empty: False  short: False  promo: False
+thnk you for upload
+--- ITEM END ---
+
+--- POST / ITEM 7 ---
+@feeding_idkwho | 2026-09-20 02:08:25 | 1 likes | AUTHOR LIKED
+video: 7687098688291867911
+lang: tr/en  empty: False  short: False  promo: False
+ilysm!
+--- ITEM END ---
+
+--- POST / ITEM 8 ---
+@itsmesheila018 | 2026-09-20 02:40:19 | 0 likes
+video: 7687098688291867911
+lang: en/en  empty: False  short: False  promo: False
+[Innocent][Innocent][Innocent]
+--- ITEM END ---
+
+--- POST / ITEM 9 ---
+@ojaojioju9 | 2026-09-20 02:43:51 | 1 likes
+video: 7687098688291867911
+lang: fr/en  empty: False  short: False  promo: False
+next!
+--- ITEM END ---
+
+--- POST / ITEM 10 ---
+@putriiarest | 2026-09-20 02:47:16 | 1 likes
+video: 7687098688291867911
+lang: en/en  empty: False  short: False  promo: False
+thank you
+--- ITEM END ---
+
+--- POST / ITEM 11 ---
+@_piorrlbyy | 2026-09-20 08:03:39 | 0 likes
+video: 7687098688291867911
+lang: ?/un  empty: True  short: True  promo: False
+
+--- ITEM END ---
+
+--- POST / ITEM 12 ---
+@aleynayamans | 2026-09-20 13:30:44 | 0 likes
+video: 7687098688291867911
+lang: ?/tr  empty: False  short: True  promo: False
+İ
+--- ITEM END ---
+
+--- POST / ITEM 13 ---
+@deunrae | 2026-09-20 14:38:51 | 0 likes
+video: 7687098688291867911
+lang: ?/un  empty: True  short: True  promo: False
+
+--- ITEM END ---
+
+--- POST / ITEM 14 ---
+@rayseeclipse | 2026-09-20 17:12:12 | 1 likes
+video: 7687098688291867911
+lang: es/es  empty: False  short: False  promo: False
+Need espanish l go aplicación
+--- ITEM END ---
+
+--- POST / ITEM 15 ---
+@marinawakesho2 | 2026-09-21 04:58:33 | 0 likes
+video: 7687098688291867911
+lang: cs/en  empty: False  short: False  promo: False
+next
+--- ITEM END ---
+
+--- POST / ITEM 16 ---
+@bongmziaa | 2026-09-21 08:54:06 | 0 likes
+video: 7687098688291867911
+lang: ?/un  empty: True  short: True  promo: False
+
+--- ITEM END ---
+
+--- POST / ITEM 17 ---
+@geoffreyjuma817 | 2026-09-22 06:54:45 | 1 likes
+video: 7687098688291867911
+lang: en/en  empty: False  short: False  promo: False
+thank you let me follow l have been searching
+--- ITEM END ---
+
+--- POST / ITEM 18 ---
+@goodness.james | 2026-09-23 07:07:49 | 0 likes
+video: 7687098688291867911
+lang: ?/un  empty: False  short: True  promo: False
+@
+--- ITEM END ---
+
+--- POST / ITEM 19 ---
+@karyl0850 | 2026-09-24 06:13:22 | 3 likes
+video: 7687098688291867911
+lang: en/en  empty: False  short: False  promo: False
+Why is the crow lowkey serving plot? Cantina app, I’m locked in.
+--- ITEM END ---
+
+--- POST / ITEM 20 ---
+@zunnysaucedo | 2026-09-25 16:44:07 | 0 likes
+video: 7687098688291867911
+lang: ?/un  empty: True  short: True  promo: False
+
+--- ITEM END ---
+
+--- POST / ITEM 21 ---
+@fetishxoxo | 2026-09-25 23:49:11 | 0 likes
+video: 7687098688291867911
+lang: ?/un  empty: True  short: True  promo: False
+
+--- ITEM END ---
+
+--- POST / ITEM 22 ---
+@shopwithnyota | 2026-09-26 14:12:09 | 50 likes
+video: 7687098688291867911
+lang: en/en  empty: False  short: False  promo: False
+Girl since when did you spend all your life with crow
+--- ITEM END ---
+
+--- POST / ITEM 23 ---
+@hajarna3 | 2026-09-26 16:00:03 | 0 likes
+video: 7687098688291867911
+lang: it/en  empty: False  short: False  promo: False
+so cute 
+--- ITEM END ---
+
+--- POST / ITEM 24 ---
+@daydayvib1n | 2026-09-26 19:28:39 | 13 likes | REPLY
+video: 7687098688291867911
+lang: en/en  empty: False  short: False  promo: False
+This AI shi be makin me mad sometimes messing up the plot and shi
+--- ITEM END ---
+
+--- POST / ITEM 25 ---
+@etclover1 | 2026-09-27 07:46:10 | 0 likes | REPLY
+video: 7687098688291867911
+lang: no/en  empty: False  short: False  promo: True
+plsss like my videos everyone
+--- ITEM END ---
+
+--- VIDEO ---
+uploader: @popcorn_chill_here (zylo🫶🏻)
+video_id: 7687099158422883602
+posted_utc: 2026-09-19 04:30:52  posted_local(Malay Peninsula Standard Time): 2026-09-19 12:30:52
+views: 391000  likes: 16500  shares: 600  comment_count: 95
+topic: crow (high: uploader=@popcorn_chill_here)  off_topic: False  needs_review: False
+tags: #ai, #aishorts, #viral, #fyp, #foryou
+description: Not your average Crow [Part 5] #ai #aishorts #viral #fyp #foryou
+--- VIDEO END ---
+
+--- POST / ITEM 1 ---
+@raspberrydelight378 | 2026-09-19 04:40:19 | 30 likes
+video: 7687099158422883602
+lang: sl/en  empty: False  short: False  promo: False
+so peak
+--- ITEM END ---
+
+--- POST / ITEM 2 ---
+@_rhixp | 2026-09-19 04:41:27 | 0 likes
+video: 7687099158422883602
+lang: fr/en  empty: False  short: False  promo: False
+next part
+--- ITEM END ---
+
+--- POST / ITEM 3 ---
+@justshannthings | 2026-09-19 04:42:42 | 0 likes
+video: 7687099158422883602
+lang: fr/en  empty: False  short: False  promo: False
+next parts!!
+--- ITEM END ---
+
+--- POST / ITEM 4 ---
+@zanver.vohn.official | 2026-09-19 04:49:51 | 0 likes
+video: 7687099158422883602
+lang: fr/en  empty: False  short: False  promo: False
+part 6
+--- ITEM END ---
+
+--- POST / ITEM 5 ---
+@preciouszum | 2026-09-19 04:55:39 | 0 likes
+video: 7687099158422883602
+lang: cs/en  empty: False  short: False  promo: False
+Nexttt
+--- ITEM END ---
+
+--- POST / ITEM 6 ---
+@nyxiehallow | 2026-09-19 05:34:47 | 249 likes
+video: 7687099158422883602
+lang: en/en  empty: False  short: False  promo: False
+peak story peak design and peak smooth
+--- ITEM END ---
+
+--- POST / ITEM 7 ---
+@etclover1 | 2026-09-19 07:16:05 | 75 likes
+video: 7687099158422883602
+lang: en/en  empty: False  short: False  promo: False
+why do I love this ai video
+--- ITEM END ---
+
+--- POST / ITEM 8 ---
+@hail_mary8 | 2026-09-19 09:44:59 | 10 likes | REPLY
+video: 7687099158422883602
+lang: id/en  empty: False  short: False  promo: False
+peak peak
+--- ITEM END ---
+
+--- POST / ITEM 9 ---
+@liyemikhaya14 | 2026-09-19 13:19:46 | 0 likes
+video: 7687099158422883602
+lang: ?/un  empty: True  short: True  promo: False
+
+--- ITEM END ---
+
+--- POST / ITEM 10 ---
+@rudi__97 | 2026-09-19 16:38:38 | 0 likes
+video: 7687099158422883602
+lang: ?/un  empty: True  short: True  promo: False
+
+--- ITEM END ---
+
+--- POST / ITEM 11 ---
+@marss16_00 | 2026-09-19 17:33:38 | 0 likes
+video: 7687099158422883602
+lang: ?/un  empty: True  short: True  promo: False
+
+--- ITEM END ---
+
+--- POST / ITEM 12 ---
+@xiansalazar5 | 2026-09-19 21:46:53 | 0 likes
+video: 7687099158422883602
+lang: ?/un  empty: True  short: True  promo: False
+
+--- ITEM END ---
+
+--- POST / ITEM 13 ---
+@mochinochiva | 2026-09-19 23:34:07 | 0 likes
+video: 7687099158422883602
+lang: id/id  empty: False  short: False  promo: False
+[Menghangatkan hati][Menghangatkan hati][Menghangatkan hati]
+--- ITEM END ---
+
+--- POST / ITEM 14 ---
+@ariel.caputol3 | 2026-09-20 00:42:51 | 1 likes | REPLY
+video: 7687099158422883602
+lang: en/en  empty: False  short: False  promo: False
+fr this ai video is smooth not like other people they posted is a delay
+--- ITEM END ---
+
+--- POST / ITEM 15 ---
+@dinamalikha03 | 2026-09-20 00:52:54 | 29 likes
+video: 7687099158422883602
+lang: tl/id  empty: False  short: False  promo: False
+gak bisa bahasa inggris
+--- ITEM END ---
+
+--- POST / ITEM 16 ---
+@mizisua4k | 2026-09-20 01:00:19 | 1 likes | REPLY
+video: 7687099158422883602
+lang: ?/un  empty: True  short: True  promo: False
+
+--- ITEM END ---
+
+--- POST / ITEM 17 ---
+@abrienna4 | 2026-09-20 01:29:43 | 7 likes | REPLY
+video: 7687099158422883602
+lang: id/id  empty: False  short: False  promo: False
+terjemahan otomatispun nggak ada ini.. pie aku
+--- ITEM END ---
+
+--- POST / ITEM 18 ---
+@giraffe44360 | 2026-09-20 01:38:33 | 0 likes
+video: 7687099158422883602
+lang: sl/en  empty: False  short: False  promo: False
+love ittt
+--- ITEM END ---
+
+--- POST / ITEM 19 ---
+@volleyballlegendscreator | 2026-09-20 01:58:01 | 0 likes
+video: 7687099158422883602
+lang: ?/un  empty: True  short: True  promo: False
+
+--- ITEM END ---
+
+--- POST / ITEM 20 ---
+@haiorangasing | 2026-09-20 02:02:08 | 0 likes
+video: 7687099158422883602
+lang: ?/un  empty: False  short: False  promo: False
+@fani 
+--- ITEM END ---
+
+--- POST / ITEM 21 ---
+@ryzenjacob1211 | 2026-09-20 02:06:34 | 1 likes | REPLY
+video: 7687099158422883602
+lang: tl/en  empty: False  short: False  promo: False
+it's magical
+--- ITEM END ---
+
+--- POST / ITEM 22 ---
+@endangcahya126 | 2026-09-20 03:30:32 | 0 likes
+video: 7687099158422883602
+lang: en/en  empty: False  short: False  promo: False
+"don't all jump on me, I'm easily scared " lucu bgt sh dia
+--- ITEM END ---
+
+--- POST / ITEM 23 ---
+@dinamalikha03 | 2026-09-20 04:07:54 | 1 likes | REPLY
+video: 7687099158422883602
+lang: sw/id  empty: False  short: False  promo: False
+[Tawa oke][Tawa oke]
+--- ITEM END ---
+
+--- POST / ITEM 24 ---
+@rhean0541 | 2026-09-20 04:16:48 | 0 likes
+video: 7687099158422883602
+lang: ?/un  empty: True  short: True  promo: False
+
+--- ITEM END ---
+
+--- POST / ITEM 25 ---
+@rumsha_flowery | 2026-09-20 06:43:59 | 0 likes
+video: 7687099158422883602
+lang: ?/un  empty: True  short: True  promo: False
+
+--- ITEM END ---
+
+--- POST / ITEM 26 ---
+@xylen_eudora | 2026-09-20 06:54:08 | 0 likes
+video: 7687099158422883602
+lang: en/en  empty: False  short: False  promo: False
+why she looks like Wednesday
+--- ITEM END ---
+
+--- POST / ITEM 27 ---
+@dumpeoplee | 2026-09-20 07:35:31 | 1 likes | REPLY
+video: 7687099158422883602
+lang: ?/hi  empty: False  short: True  promo: False
+ka
+--- ITEM END ---
+
+--- POST / ITEM 28 ---
+@m.i.s.s.b.t.s.a.r | 2026-09-20 07:36:40 | 0 likes | REPLY
+video: 7687099158422883602
+lang: tr/en  empty: False  short: False  promo: False
+yeahhh
+--- ITEM END ---
+
+--- POST / ITEM 29 ---
+@nesie_hush203 | 2026-09-20 07:41:03 | 0 likes
+video: 7687099158422883602
+lang: ?/un  empty: True  short: True  promo: False
+
+--- ITEM END ---
+
+--- POST / ITEM 30 ---
+@syahrulmoe | 2026-09-20 11:03:37 | 0 likes
+video: 7687099158422883602
+lang: hr/id  empty: False  short: False  promo: False
+lanjuttt
+--- ITEM END ---
+
+--- POST / ITEM 31 ---
+@ceocto19 | 2026-09-20 13:12:54 | 0 likes
+video: 7687099158422883602
+lang: ?/un  empty: True  short: True  promo: False
+
+--- ITEM END ---
+
+--- POST / ITEM 32 ---
+@lakshmi26001 | 2026-09-20 13:14:42 | 0 likes
+video: 7687099158422883602
+lang: ?/un  empty: True  short: True  promo: False
+
+--- ITEM END ---
+
+--- POST / ITEM 33 ---
+@tetehcianjur92 | 2026-09-20 13:27:58 | 3 likes
+video: 7687099158422883602
+lang: id/id  empty: False  short: False  promo: False
+nongol sendiri kelanjutannya tp aku GX bisa bahasa inggris [Terkekeh]
+--- ITEM END ---
+
+--- POST / ITEM 34 ---
+@tetehcianjur92 | 2026-09-20 13:41:57 | 2 likes
+video: 7687099158422883602
+lang: id/id  empty: False  short: False  promo: False
+ehh ternyata di bawah nyh ada tulisan terjemahan JD bisa ngerti
+--- ITEM END ---
+
+--- POST / ITEM 35 ---
+@lungisithole368 | 2026-09-20 16:03:46 | 0 likes
+video: 7687099158422883602
+lang: ?/sw  empty: False  short: True  promo: False
+wa
+--- ITEM END ---
+
+--- POST / ITEM 36 ---
+@ashtotiepotato | 2026-09-21 07:35:14 | 4 likes
+video: 7687099158422883602
+lang: en/en  empty: False  short: False  promo: False
+squishy little thing
+--- ITEM END ---
+
+--- POST / ITEM 37 ---
+@lostworldoftiktok | 2026-09-21 11:31:58 | 1 likes | REPLY
+video: 7687099158422883602
+lang: id/ms  empty: False  short: False  promo: False
+Lemah gila tak reti bahasa eng
+--- ITEM END ---
+
+--- POST / ITEM 38 ---
+@tinasartinah0 | 2026-09-21 13:47:46 | 0 likes | REPLY
+video: 7687099158422883602
+lang: et/id  empty: False  short: False  promo: False
+klik kak
+--- ITEM END ---
+
+--- POST / ITEM 39 ---
+@abrienna4 | 2026-09-21 15:17:31 | 0 likes | REPLY
+video: 7687099158422883602
+lang: id/id  empty: False  short: False  promo: False
+klik di mna ?
+nggak ada yang harus di klik kak 
+--- ITEM END ---
+
+--- POST / ITEM 40 ---
+@tinasartinah0 | 2026-09-21 15:17:59 | 0 likes | REPLY
+video: 7687099158422883602
+lang: ?/un  empty: True  short: True  promo: False
+
+--- ITEM END ---
+
+--- POST / ITEM 41 ---
+@abrienna4 | 2026-09-21 15:18:22 | 0 likes | REPLY
+video: 7687099158422883602
+lang: ?/un  empty: True  short: True  promo: False
+
+--- ITEM END ---
+
+--- POST / ITEM 42 ---
+@tinasartinah0 | 2026-09-21 15:18:31 | 0 likes | REPLY
+video: 7687099158422883602
+lang: id/id  empty: False  short: False  promo: False
+lihat terjemahan kak
+--- ITEM END ---
+
+--- POST / ITEM 43 ---
+@abrienna4 | 2026-09-21 15:19:47 | 1 likes | REPLY
+video: 7687099158422883602
+lang: id/id  empty: False  short: False  promo: False
+punyaku hilang kak 
+biasanya ada.. ini dah nggak ada 
+--- ITEM END ---
+
+--- POST / ITEM 44 ---
+@radit_gunslinger | 2026-09-22 03:47:20 | 0 likes
+video: 7687099158422883602
+lang: hr/id  empty: False  short: False  promo: False
+lanjudd
+--- ITEM END ---
+
+--- POST / ITEM 45 ---
+@realmenote70462 | 2026-09-22 07:26:34 | 0 likes
+video: 7687099158422883602
+lang: fi/id  empty: False  short: False  promo: False
+lanjutt
+--- ITEM END ---
+
+--- POST / ITEM 46 ---
+@hemmm..000 | 2026-09-22 10:29:34 | 0 likes
+video: 7687099158422883602
+lang: id/id  empty: False  short: False  promo: False
+yesss dateng sendiri episode nya
+--- ITEM END ---
+
+--- POST / ITEM 47 ---
+@treasha.faye.baja | 2026-09-22 11:14:41 | 0 likes | REPLY
+video: 7687099158422883602
+lang: en/en  empty: False  short: False  promo: False
+. please.p.p
+--- ITEM END ---
+
+--- POST / ITEM 48 ---
+@etclover1 | 2026-09-22 12:20:06 | 0 likes | REPLY
+video: 7687099158422883602
+lang: en/en  empty: False  short: False  promo: False
+what
+--- ITEM END ---
+
+--- POST / ITEM 49 ---
+@tinasartinah0 | 2026-09-23 01:59:47 | 0 likes | REPLY
+video: 7687099158422883602
+lang: ?/un  empty: True  short: True  promo: False
+
+--- ITEM END ---
+
+--- POST / ITEM 50 ---
+@cevisuhendi | 2026-09-23 02:15:51 | 0 likes
+video: 7687099158422883602
+lang: ?/un  empty: True  short: True  promo: False
+
+--- ITEM END ---
+
+--- POST / ITEM 51 ---
+@rara89671 | 2026-09-24 00:20:32 | 0 likes | REPLY
+video: 7687099158422883602
+lang: id/id  empty: False  short: False  promo: False
+untung aku ada terjemahannya [Terkekeh]
+--- ITEM END ---
+
+--- POST / ITEM 52 ---
+@dinamalikha03 | 2026-09-24 07:17:19 | 0 likes | REPLY
+video: 7687099158422883602
+lang: id/id  empty: False  short: False  promo: False
+pamer ‍↔️
+--- ITEM END ---
+
+--- POST / ITEM 53 ---
+@niksenjohan0 | 2026-09-24 07:44:52 | 0 likes
+video: 7687099158422883602
+lang: ?/un  empty: True  short: True  promo: False
+
+--- ITEM END ---
+
+--- POST / ITEM 54 ---
+@gqzi.pure.ms.alifa | 2026-09-25 15:51:16 | 0 likes
+video: 7687099158422883602
+lang: ?/un  empty: True  short: True  promo: False
+
+--- ITEM END ---
+
+--- POST / ITEM 55 ---
+@7even_offical | 2026-09-26 11:38:17 | 3 likes
+video: 7687099158422883602
+lang: en/en  empty: False  short: False  promo: False
+The damn intro music
+--- ITEM END ---
+
+--- POST / ITEM 56 ---
+@angel.borges66 | 2026-09-26 23:22:53 | 0 likes
+video: 7687099158422883602
+lang: ?/un  empty: False  short: True  promo: False
+❤️
+--- ITEM END ---
+
+--- POST / ITEM 57 ---
+@ajaxx016 | 2026-09-27 04:32:02 | 2 likes
+video: 7687099158422883602
+lang: en/en  empty: False  short: False  promo: False
+So who is leo
+--- ITEM END ---
+
+--- POST / ITEM 58 ---
+@aryasballoons | 2026-09-27 05:26:03 | 1 likes | REPLY
+video: 7687099158422883602
+lang: ?/en  empty: False  short: False  promo: False
+why
+--- ITEM END ---
+
+--- POST / ITEM 59 ---
+@etclover1 | 2026-09-27 07:45:08 | 0 likes | REPLY
+video: 7687099158422883602
+lang: no/en  empty: False  short: False  promo: True
+plss like my video everyone 
+--- ITEM END ---
+
+--- POST / ITEM 60 ---
+@izzmichaong | 2026-09-27 15:21:32 | 0 likes
+video: 7687099158422883602
+lang: ?/un  empty: True  short: True  promo: False
+
+--- ITEM END ---
+
+--- POST / ITEM 61 ---
+@huronlunar | 2026-09-28 05:37:41 | 0 likes
+video: 7687099158422883602
+lang: en/en  empty: False  short: False  promo: False
+[Heartwarming][Heartwarming][Heartwarming]
+--- ITEM END ---
+
+--- POST / ITEM 62 ---
+@callmelaniorwhatever | 2026-09-28 11:58:54 | 4 likes
+video: 7687099158422883602
+lang: en/en  empty: False  short: False  promo: False
+why is this so addicting
+--- ITEM END ---
+
+--- POST / ITEM 63 ---
+@cez361 | 2026-09-28 23:46:56 | 0 likes
+video: 7687099158422883602
+lang: da/id  empty: False  short: False  promo: False
+keren banget
+--- ITEM END ---
+
+--- POST / ITEM 64 ---
+@zompangel | 2026-09-30 18:36:50 | 0 likes
+video: 7687099158422883602
+lang: id/en  empty: False  short: False  promo: False
+But.
+--- ITEM END ---
+
+--- VIDEO ---
+uploader: @popcorn_chill_here (zylo🫶🏻)
+video_id: 7687103842520927496
+posted_utc: 2026-09-19 04:49:02  posted_local(Malay Peninsula Standard Time): 2026-09-19 12:49:02
+views: 417000  likes: 19800  shares: 507  comment_count: 100
+topic: crow (high: uploader=@popcorn_chill_here)  off_topic: False  needs_review: False
+tags: #ai, #aishorts, #viral, #fyp, #foryou
+description: Hope you enjoy the last part of Not your average Crow  [Final Part] #ai #aishorts #viral #fyp #foryou
+--- VIDEO END ---
+
+--- POST / ITEM 1 ---
+@nyxiehallow | 2026-09-19 05:42:28 | 5 likes
+video: 7687103842520927496
+lang: en/en  empty: False  short: False  promo: False
+thank youuuu
+--- ITEM END ---
+
+--- POST / ITEM 2 ---
+@hanashigaming | 2026-09-19 05:50:22 | 70 likes
+video: 7687103842520927496
+lang: so/en  empty: False  short: False  promo: False
+hahaha extra leg
+--- ITEM END ---
+
+--- POST / ITEM 3 ---
+@kzye201 | 2026-09-19 07:54:07 | 0 likes
+video: 7687103842520927496
+lang: ?/un  empty: True  short: True  promo: False
+
+--- ITEM END ---
+
+--- POST / ITEM 4 ---
+@hail_mary8 | 2026-09-19 09:54:33 | 0 likes
+video: 7687103842520927496
+lang: ?/un  empty: True  short: True  promo: False
+
+--- ITEM END ---
+
+--- POST / ITEM 5 ---
+@cai_flop | 2026-09-19 10:41:14 | 1 likes
+video: 7687103842520927496
+lang: ?/en  empty: False  short: False  promo: False
+Tyyy
+--- ITEM END ---
+
+--- POST / ITEM 6 ---
+@creamy_carbonaraaaa | 2026-09-19 11:11:35 | 0 likes
+video: 7687103842520927496
+lang: ?/un  empty: True  short: True  promo: False
+
+--- ITEM END ---
+
+--- POST / ITEM 7 ---
+@satrewz | 2026-09-19 14:30:52 | 2 likes | AUTHOR LIKED
+video: 7687103842520927496
+lang: en/en  empty: False  short: False  promo: False
+Has anyone told you you are the best??? 
+--- ITEM END ---
+
+--- POST / ITEM 8 ---
+@ahof.ka | 2026-09-19 14:42:34 | 43 likes
+video: 7687103842520927496
+lang: en/en  empty: False  short: False  promo: False
+Yeah wonder how that tree leg would be visualized in their human form haha
+--- ITEM END ---
+
+--- POST / ITEM 9 ---
+@mjdq_0217 | 2026-09-19 15:46:35 | 39 likes
+video: 7687103842520927496
+lang: en/en  empty: False  short: False  promo: False
+you seriously didn't notice you had an extra leg?! 
+--- ITEM END ---
+
+--- POST / ITEM 10 ---
+@its_maxy3 | 2026-09-19 17:53:20 | 0 likes
+video: 7687103842520927496
+lang: ?/un  empty: True  short: True  promo: False
+
+--- ITEM END ---
+
+--- POST / ITEM 11 ---
+@kai_yiszo | 2026-09-20 00:19:14 | 150 likes
+video: 7687103842520927496
+lang: en/en  empty: False  short: False  promo: False
+this is peak
+--- ITEM END ---
+
+--- POST / ITEM 12 ---
+@aspalena23 | 2026-09-20 00:31:50 | 0 likes
+video: 7687103842520927496
+lang: id/id  empty: False  short: False  promo: False
+lanjut min udah aku follow
+--- ITEM END ---
+
+--- POST / ITEM 13 ---
+@kalderetangtite | 2026-09-20 00:32:05 | 0 likes
+video: 7687103842520927496
+lang: af/en  empty: False  short: False  promo: False
+peak series
+--- ITEM END ---
+
+--- POST / ITEM 14 ---
+@3ts.adrian | 2026-09-20 01:13:49 | 0 likes
+video: 7687103842520927496
+lang: ?/un  empty: True  short: True  promo: False
+
+--- ITEM END ---
+
+--- POST / ITEM 15 ---
+@aryanadin74 | 2026-09-20 02:24:07 | 0 likes
+video: 7687103842520927496
+lang: ?/un  empty: False  short: True  promo: False
+@
+--- ITEM END ---
+
+--- POST / ITEM 16 ---
+@nuritayunia | 2026-09-20 03:35:02 | 0 likes
+video: 7687103842520927496
+lang: id/un  empty: False  short: False  promo: False
+akhirnya dapat yg full
+--- ITEM END ---
+
+--- POST / ITEM 17 ---
+@silver_rose31 | 2026-09-20 03:43:23 | 0 likes
+video: 7687103842520927496
+lang: ?/un  empty: True  short: True  promo: False
+
+--- ITEM END ---
+
+--- POST / ITEM 18 ---
+@ilyuluuluuu | 2026-09-20 04:18:23 | 0 likes
+video: 7687103842520927496
+lang: ?/un  empty: True  short: True  promo: False
+
+--- ITEM END ---
+
+--- POST / ITEM 19 ---
+@lihfirtinie1111 | 2026-09-20 06:28:49 | 0 likes
+video: 7687103842520927496
+lang: en/en  empty: False  short: False  promo: False
+wow... great I want more please 
+--- ITEM END ---
+
+--- POST / ITEM 20 ---
+@cowboy0155 | 2026-09-20 06:57:30 | 0 likes
+video: 7687103842520927496
+lang: en/en  empty: False  short: False  promo: False
+[Heartwarming][Heartwarming][Heartwarming]
+--- ITEM END ---
+
+--- POST / ITEM 21 ---
+@ohoaaa | 2026-09-20 07:08:10 | 0 likes
+video: 7687103842520927496
+lang: ?/un  empty: True  short: True  promo: False
+
+--- ITEM END ---
+
+--- POST / ITEM 22 ---
+@sukamatchadsmbr | 2026-09-20 09:08:46 | 0 likes
+video: 7687103842520927496
+lang: et/pt  empty: False  short: False  promo: False
+sub indo
+--- ITEM END ---
+
+--- POST / ITEM 23 ---
+@heavenknows242 | 2026-09-20 09:34:38 | 0 likes
+video: 7687103842520927496
+lang: ?/un  empty: True  short: True  promo: False
+
+--- ITEM END ---
+
+--- POST / ITEM 24 ---
+@mahiiiiirrrrrr | 2026-09-20 10:06:01 | 0 likes
+video: 7687103842520927496
+lang: id/id  empty: False  short: False  promo: False
+Jadi sebenarnya ini film manok??
+--- ITEM END ---
+
+--- POST / ITEM 25 ---
+@rikijaz1 | 2026-09-20 10:42:22 | 0 likes
+video: 7687103842520927496
+lang: ?/un  empty: True  short: True  promo: False
+
+--- ITEM END ---
+
+--- POST / ITEM 26 ---
+@syahrulmoe | 2026-09-20 11:20:43 | 0 likes
+video: 7687103842520927496
+lang: ?/en  empty: False  short: False  promo: False
+thx
+--- ITEM END ---
+
+--- POST / ITEM 27 ---
+@onlymanja._ | 2026-09-20 11:32:55 | 0 likes
+video: 7687103842520927496
+lang: ?/it  empty: False  short: True  promo: False
+P
+--- ITEM END ---
+
+--- POST / ITEM 28 ---
+@adepabambie1 | 2026-09-20 11:52:28 | 0 likes
+video: 7687103842520927496
+lang: cs/en  empty: False  short: False  promo: False
+next
+--- ITEM END ---
+
+--- POST / ITEM 29 ---
+@elaymmmm37 | 2026-09-20 15:04:05 | 1 likes | REPLY
+video: 7687103842520927496
+lang: en/en  empty: False  short: False  promo: False
+That's really true
+--- ITEM END ---
+
+--- POST / ITEM 30 ---
+@picaxhu_777 | 2026-09-20 18:12:54 | 0 likes
+video: 7687103842520927496
+lang: ?/un  empty: True  short: True  promo: False
+
+--- ITEM END ---
+
+--- POST / ITEM 31 ---
+@emsmith.24 | 2026-09-20 23:34:35 | 0 likes
+video: 7687103842520927496
+lang: en/en  empty: False  short: False  promo: False
+Thanks for the last part
+--- ITEM END ---
+
+--- POST / ITEM 32 ---
+@zuusiti88 | 2026-09-21 13:27:39 | 0 likes
+video: 7687103842520927496
+lang: ?/un  empty: True  short: True  promo: False
+
+--- ITEM END ---
+
+--- POST / ITEM 33 ---
+@g666kedd | 2026-09-21 18:35:39 | 0 likes
+video: 7687103842520927496
+lang: tl/es  empty: False  short: False  promo: False
+@➰ @@bbeatrice tengo ni
+--- ITEM END ---
+
+--- POST / ITEM 34 ---
+@jana05346 | 2026-09-21 20:50:50 | 0 likes
+video: 7687103842520927496
+lang: ?/un  empty: False  short: True  promo: False
+❤️❤️❤️
+--- ITEM END ---
+
+--- POST / ITEM 35 ---
+@ciki_bomm | 2026-09-23 14:16:02 | 0 likes
+video: 7687103842520927496
+lang: ?/un  empty: True  short: True  promo: False
+
+--- ITEM END ---
+
+--- POST / ITEM 36 ---
+@karyl0850 | 2026-09-24 06:15:48 | 2 likes
+video: 7687103842520927496
+lang: en/en  empty: False  short: False  promo: False
+Wait, this is actually the END? I’d continue the chaos on Cantina.
+--- ITEM END ---
+
+--- POST / ITEM 37 ---
+@dax.amir1 | 2026-09-25 00:38:32 | 0 likes
+video: 7687103842520927496
+lang: en/en  empty: False  short: False  promo: False
+[Tears of joy]
+--- ITEM END ---
+
+--- POST / ITEM 38 ---
+@rak8577 | 2026-09-25 23:43:00 | 15 likes
+video: 7687103842520927496
+lang: en/en  empty: False  short: False  promo: False
+Wait why does she look like a crow if she’s a phenox
+--- ITEM END ---
+
+--- POST / ITEM 39 ---
+@eunoiaa_999 | 2026-09-26 12:24:06 | 0 likes
+video: 7687103842520927496
+lang: id/id  empty: False  short: False  promo: False
+kan di episode sebelumnya udah tahu si emily kalau saudara-saudara nya bukan anak kandung angelina kok malah kaget di episode yang ini 
+--- ITEM END ---
+
+--- POST / ITEM 40 ---
+@jjlofez | 2026-09-26 15:54:25 | 16 likes | REPLY
+video: 7687103842520927496
+lang: en/en  empty: False  short: False  promo: False
+She’s an abbysal phoenix, they look like crows but they control the dead, light and dark.
+--- ITEM END ---
+
+--- POST / ITEM 41 ---
+@ubah.username.anda | 2026-09-26 23:43:49 | 0 likes
+video: 7687103842520927496
+lang: id/id  empty: False  short: False  promo: False
+berasa nonton disney 
+--- ITEM END ---
+
+--- POST / ITEM 42 ---
+@his.foreverrr | 2026-09-27 02:21:47 | 0 likes
+video: 7687103842520927496
+lang: en/en  empty: False  short: False  promo: False
+The EMILY got me I’m laughing so hard
+--- ITEM END ---
+
+--- POST / ITEM 43 ---
+@itskay2k | 2026-09-27 02:24:55 | 0 likes
+video: 7687103842520927496
+lang: ?/un  empty: False  short: True  promo: False
+️
+--- ITEM END ---
+
+--- POST / ITEM 44 ---
+@i3ammyofficial | 2026-09-27 05:29:21 | 7 likes | REPLY
+video: 7687103842520927496
+lang: en/en  empty: False  short: False  promo: False
+cause she's just a babbyyy lol
+--- ITEM END ---
+
+--- POST / ITEM 45 ---
+@i3ammyofficial | 2026-09-27 21:58:26 | 0 likes | REPLY
+video: 7687103842520927496
+lang: en/en  empty: False  short: False  promo: False
+[Tears of joy]
+--- ITEM END ---
+
+--- POST / ITEM 46 ---
+@adibae_c | 2026-09-29 18:08:08 | 0 likes
+video: 7687103842520927496
+lang: fr/fr  empty: False  short: False  promo: False
+Moui
+--- ITEM END ---
+
+--- POST / ITEM 47 ---
+@rickyestardo0 | 2026-09-29 19:08:01 | 0 likes
+video: 7687103842520927496
+lang: ?/un  empty: True  short: True  promo: False
+
+--- ITEM END ---
+
+--- POST / ITEM 48 ---
+@mss.libra19262015 | 2026-09-30 19:15:31 | 0 likes
+video: 7687103842520927496
+lang: ?/un  empty: False  short: True  promo: False
+@
+--- ITEM END ---
+
+--- POST / ITEM 49 ---
+@wayodelaina | 2026-10-01 00:46:59 | 0 likes | REPLY
+video: 7687103842520927496
+lang: en/en  empty: False  short: False  promo: False
+shes still a baby bruh
+--- ITEM END ---
+
+--- POST / ITEM 50 ---
+@appleuser98784868 | 2026-10-01 08:12:34 | 0 likes
+video: 7687103842520927496
+lang: ?/un  empty: False  short: True  promo: False
+❤️❤️❤️
+--- ITEM END ---
+

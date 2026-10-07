@@ -1,0 +1,103 @@
+{
+  "series": "unknown_series",
+  "source_dir": "D:\\web_scraping\\tiktok_search_output",
+  "output_dir": "D:\\web_scraping\\output\\by_series\\unknown_series",
+  "source_files_unchanged": true,
+  "timezone": {
+    "local_tz_label": "Malay Peninsula Standard Time",
+    "local_utc_offset_hours": 8.0
+  },
+  "reconciliation": {
+    "video_records_in_global": 228,
+    "comment_records_in_global": 27349,
+    "video_duplicates_removed_global": 144,
+    "comment_duplicates_removed_global": 19114,
+    "videos_in_series": 9,
+    "comments_in_series": 948
+  },
+  "flags": {
+    "is_empty_text": 197,
+    "is_empty_after_clean": 205,
+    "has_placeholder": 3,
+    "is_too_short": 354,
+    "is_self_promo": 0,
+    "is_repeat_poster": 0,
+    "has_mention": 15,
+    "has_url": 0,
+    "is_reply": 296,
+    "liked_by_author": 13,
+    "lang_ambiguous": 432,
+    "nlp_ready_rows": 740,
+    "nlp_ready_excluded": 208
+  },
+  "topic_confidence_distribution": {
+    "none": 9
+  },
+  "uploaders": [
+    "popcinema5",
+    "popcorn.by.z",
+    "popcorn.picks78",
+    "popcorn7615",
+    "popcorn_recaps17",
+    "popcorngirlfriend",
+    "popcornhoney",
+    "popcornmood123",
+    "popcornphilosoph"
+  ],
+  "lang_detected_distribution": {
+    "undetected": 432,
+    "en": 239,
+    "vi": 68,
+    "th": 34,
+    "tl": 23,
+    "cs": 23,
+    "fr": 11,
+    "hr": 8,
+    "so": 8,
+    "da": 7,
+    "cy": 7,
+    "ar": 7,
+    "de": 7,
+    "pl": 6,
+    "sw": 6
+  },
+  "lang_reported_distribution": {
+    "en": 337,
+    "un": 255,
+    "ig": 105,
+    "vi": 88,
+    "my": 57,
+    "th": 24,
+    "tl": 20,
+    "ar": 11,
+    "de": 11,
+    "pt": 6,
+    "ms": 5,
+    "es": 4,
+    "hi": 4,
+    "sm": 4,
+    "hu": 2
+  },
+  "validation": {
+    "series": "unknown_series",
+    "videos": 9,
+    "comments": 948,
+    "unique_cids": 948,
+    "orphan_video_id_refs": 0,
+    "orphan_parent_cid_refs": 0,
+    "empty_text_flag_mismatches": 0,
+    "placeholder_flag_mismatches": 0,
+    "passed": true,
+    "failures": []
+  },
+  "outputs": [
+    "videos.jsonl",
+    "videos.csv",
+    "comments.jsonl",
+    "comments.csv",
+    "all_comments.jsonl",
+    "nlp_ready.jsonl",
+    "corpus_clean.txt",
+    "report.json"
+  ]
+}

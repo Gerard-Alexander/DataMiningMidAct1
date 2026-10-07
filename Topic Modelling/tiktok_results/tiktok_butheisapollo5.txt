@@ -1,0 +1,133 @@
+--- SEARCH META ---
+query: https://www.tiktok.com/@drama.vault.tv/video/7664032402313940238
+videos: 10
+==================================================
+
+--- VIDEO ---
+uploader: @dramavault_eg (dramavault_eg)
+video_id: 7684935555481718037
+posted: 2026-09-13 16:34:59
+views: 65500  likes: 1684  shares: 253  comment_count: 9
+description: البطل السحري يصبح حاكماً بعد الزواج
+--- VIDEO END ---
+
+--- POST / ITEM 1 ---
+@abu_dhiya7 | 2026-09-21 22:58:26 | 0 likes
+video: 7684935555481718037
+orang 4 jatuh 3 nah 1 lagi kemana ? 
+--- ITEM END ---
+
+--- POST / ITEM 2 ---
+@nuar705 | 2026-09-22 14:45:13 | 0 likes
+video: 7684935555481718037
+
+--- ITEM END ---
+
+--- POST / ITEM 3 ---
+@ismailmusa6446 | 2026-09-23 18:46:40 | 0 likes | REPLY
+video: 7684935555481718037
+U
+--- ITEM END ---
+
+--- POST / ITEM 4 ---
+@alfred.amponsah76 | 2026-09-23 09:13:12 | 0 likes
+video: 7684935555481718037
+
+--- ITEM END ---
+
+--- POST / ITEM 5 ---
+@greenlioneventos | 2026-09-19 07:05:57 | 0 likes
+video: 7684935555481718037
+
+--- ITEM END ---
+
+--- POST / ITEM 6 ---
+@soemoenaing1235 | 2026-09-15 22:53:14 | 0 likes
+video: 7684935555481718037
+
+--- ITEM END ---
+
+--- POST / ITEM 7 ---
+@ehab.are5 | 2026-09-22 18:21:31 | 0 likes
+video: 7684935555481718037
+
+--- ITEM END ---
+
+--- VIDEO ---
+uploader: @dramavault_eg (dramavault_eg)
+video_id: 7690542998211415314
+posted: 2026-09-28 19:14:44
+views: 1600  likes: 24  shares: 3  comment_count: 0
+description: الابن المتبنى المظلوم وخيانة خطيبته
+--- VIDEO END ---
+
+--- VIDEO ---
+uploader: @dramavault_eg (dramavault_eg)
+video_id: 7690454475164699912
+posted: 2026-09-28 13:31:17
+views: 1768  likes: 32  shares: 1  comment_count: 0
+description: ندم هيلين بعد خسارة الحبيب المظلوم
+--- VIDEO END ---
+
+--- VIDEO ---
+uploader: @dramavault_eg (dramavault_eg)
+video_id: 7688639051150216468
+posted: 2026-09-23 16:07:05
+views: 10700  likes: 258  shares: 2  comment_count: 0
+description: الحلقة 17
+--- VIDEO END ---
+
+--- VIDEO ---
+uploader: @dramavault_eg (dramavault_eg)
+video_id: 7690588541117631762
+posted: 2026-09-28 22:12:15
+views: 7230  likes: 106  shares: 2  comment_count: 1
+description: الحلقة 41
+--- VIDEO END ---
+
+--- POST / ITEM 1 ---
+@w6e.j | 2026-09-29 19:52:47 | 0 likes
+video: 7690588541117631762
+
+--- ITEM END ---
+
+--- VIDEO ---
+uploader: @dramavault_eg (dramavault_eg)
+video_id: 7687419878239735060
+posted: 2026-09-20 09:15:25
+views: 2058  likes: 36  shares: 5  comment_count: 0
+description: انتقام الملكة المظلومة
+--- VIDEO END ---
+
+--- VIDEO ---
+uploader: @dramavault_eg (dramavault_eg)
+video_id: 7691242147521105159
+posted: 2026-09-30 16:28:26
+views: 2591  likes: 34  shares: 2  comment_count: 0
+description: ٣٠
+--- VIDEO END ---
+
+--- VIDEO ---
+uploader: @dramavault_eg (dramavault_eg)
+video_id: 7687045685568376085
+posted: 2026-09-19 09:04:02
+views: 8272  likes: 89  shares: 1  comment_count: 0
+description: الحلقة 20
+--- VIDEO END ---
+
+--- VIDEO ---
+uploader: @dramavault_eg (dramavault_eg)
+video_id: 7691015828010962183
+posted: 2026-09-30 01:49:33
+views: 1874  likes: 27  shares: 0  comment_count: 0
+description: ندم هيلين بعد خسارة الحبيب المظلوم
+--- VIDEO END ---
+
+--- VIDEO ---
+uploader: @dramavault_eg (dramavault_eg)
+video_id: 7690555624987299092
+posted: 2026-09-28 20:04:18
+views: 677  likes: 16  shares: 0  comment_count: 0
+description: الحلقة 9
+--- VIDEO END ---
+

@@ -1,0 +1,95 @@
+{
+  "series": "stepmom",
+  "source_dir": "D:\\web_scraping\\tiktok_search_output",
+  "output_dir": "D:\\web_scraping\\output\\by_series\\stepmom_in_charge",
+  "source_files_unchanged": true,
+  "timezone": {
+    "local_tz_label": "Malay Peninsula Standard Time",
+    "local_utc_offset_hours": 8.0
+  },
+  "reconciliation": {
+    "video_records_in_global": 228,
+    "comment_records_in_global": 27349,
+    "video_duplicates_removed_global": 144,
+    "comment_duplicates_removed_global": 19114,
+    "videos_in_series": 6,
+    "comments_in_series": 545
+  },
+  "flags": {
+    "is_empty_text": 71,
+    "is_empty_after_clean": 71,
+    "has_placeholder": 4,
+    "is_too_short": 93,
+    "is_self_promo": 0,
+    "is_repeat_poster": 3,
+    "has_mention": 2,
+    "has_url": 1,
+    "is_reply": 153,
+    "liked_by_author": 0,
+    "lang_ambiguous": 102,
+    "nlp_ready_rows": 467,
+    "nlp_ready_excluded": 78
+  },
+  "topic_confidence_distribution": {
+    "high": 6
+  },
+  "uploaders": [
+    "dramastop7"
+  ],
+  "lang_detected_distribution": {
+    "en": 273,
+    "undetected": 102,
+    "fr": 29,
+    "cs": 22,
+    "tl": 13,
+    "pt": 13,
+    "da": 12,
+    "ca": 9,
+    "no": 9,
+    "so": 6,
+    "id": 6,
+    "it": 5,
+    "pl": 5,
+    "tr": 5,
+    "es": 5
+  },
+  "lang_reported_distribution": {
+    "en": 412,
+    "un": 85,
+    "es": 13,
+    "fr": 6,
+    "tl": 5,
+    "id": 5,
+    "ms": 3,
+    "eo": 3,
+    "zh": 2,
+    "ja": 2,
+    "ca": 1,
+    "pl": 1,
+    "sw": 1,
+    "ar": 1,
+    "km": 1
+  },
+  "validation": {
+    "series": "stepmom",
+    "videos": 6,
+    "comments": 545,
+    "unique_cids": 545,
+    "orphan_video_id_refs": 0,
+    "orphan_parent_cid_refs": 0,
+    "empty_text_flag_mismatches": 0,
+    "placeholder_flag_mismatches": 0,
+    "passed": true,
+    "failures": []
+  },
+  "outputs": [
+    "videos.jsonl",
+    "videos.csv",
+    "comments.jsonl",
+    "comments.csv",
+    "all_comments.jsonl",
+    "nlp_ready.jsonl",
+    "corpus_clean.txt",
+    "report.json"
+  ]
+}
