@@ -1,0 +1,936 @@
+document_id,platform,sentiment_text,topic_model_partition,lda_label,bt_label,rule_score,rule_sentiment,vader_compound,vader_reference
+DOC_002487,TikTok,Go watch the Spain seasons. This is NOTHINGGG,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000978,TikTok,Daniel is the Michael of Billionare you dont nkow,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000878,TikTok,check my page fors for ai movies also,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001078,TikTok,How I remember those scenes from the Avatar legend of Korra... some looks hilarious,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.4019,positive
+DOC_002039,TikTok,So is he called marco de marco??,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001164,TikTok,Abeg kill Micheal and let Cynthia enjoy in peace,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.3333333333333333,positive,0.25,positive
+DOC_001227,TikTok,I almost forget about this story sef,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,-0.1548,negative
+DOC_002640,TikTok,"Every clip I have seen of Montoya has been against my will, ANITA free this guy",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.5106,positive
+DOC_002355,TikTok,"mark is a girls girl, we love mark",topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.35355339059327373,positive,0.6369,positive
+DOC_002479,TikTok,Such a deep abandonment wound she has . I’m very much like her and trying so hard to work on mine but it’s far from easy. I pray she does all the healing and meets the right man ,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.24659848095803594,positive,0.7232,positive
+DOC_002485,TikTok,"Mark has a hard job, the fact that he can not be basis and still help EVERYONE in their journey and allow them to grow without judgement is amazing",topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.18569533817705186,positive,0.033,neutral
+DOC_001925,TikTok,That one bro who gon crack anything,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002322,TikTok,"It hurts to say it out loud, but it is true. I feel like a good person, but I guess I am not",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.41702882811414954,positive,0.8674,positive
+DOC_001741,TikTok,this is NOTTT what happened plus they aren't even the mc the girl rejected him because they didn't know each other,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,-0.5106,negative
+DOC_000563,YouTube,Just wondering if it was possible to get the full version of The Elf Prince is my baby Daddy?,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000952,TikTok,"That's What made me laugh so hard........at least it cheers me up from the hospital bed
+Here to : Yae Yae Yae
+This is what you get from using AI[Big LOL][Tears of joy]",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.8885,positive
+DOC_001013,TikTok,madam do u really hav to tell th world u manage him I hope u don't cm bac looking for him I've seen people get married th ring cause millions where are they now hmm waist of money let her go wen she lives the other man will dump her,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.1414213562373095,neutral,0.0772,positive
+DOC_000125,YouTube,"Please like, comment, and subscribe to the Chanel",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.35355339059327373,positive,0.5859,positive
+DOC_000276,YouTube,It’s so bad. Plus they added music from home alone loll,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,-0.45226701686664544,negative,-0.6997,negative
+DOC_001688,TikTok,mang ingat ka po cong..leviste,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.5574,negative
+DOC_002492,TikTok,Dont leave yourself. That’s the place to start. Never ever ABANDON yourself.,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.476,positive
+DOC_002725,TikTok,@breanne us because we gotta get new huzz,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001740,TikTok,omor his name is not jack and the two are not even the main characters  side characters,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002096,TikTok,I started it on Facebook came to finish it here,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001547,TikTok,kter awe el abona[Tears of joy][Tears of joy],topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.5859,positive
+DOC_001938,TikTok,Is the fish male or female?,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001035,TikTok,"Should've went for the other twin, was way nicer to him and actually saved him almost just as much",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.6908,positive
+DOC_000063,YouTube,Thank you for this drama. Please post the rest,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.3333333333333333,positive,0.5859,positive
+DOC_001218,TikTok,I almost forget this story thank God I saw it again,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.30151134457776363,positive,0.4576,positive
+DOC_002035,TikTok,and she was so beautiful as a teddy bear,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.5,positive,0.7177,positive
+DOC_000436,YouTube,"And they (the villains) always bark, like a pathetic dog",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.31622776601683794,positive,-0.765,negative
+DOC_000830,TikTok,Hmmmm very sad and bad,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,-1.3416407864998738,negative,-0.7996,negative
+DOC_001142,TikTok,Happy birthday princess,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.5773502691896258,positive,0.5719,positive
+DOC_000360,YouTube,Because these A.I slops cast a geas on us that makes us watch these until the end.,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000816,TikTok,You dey trust Adam great-grandson of Adam?,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.35355339059327373,positive,0.5106,positive
+DOC_001794,TikTok,"you’re literally so dense it’s hilarious, you are homophobic for that one comment, making fun of the term “queer history”, don’t act stupid",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.41702882811414954,positive,0.4336,positive
+DOC_001199,TikTok,that is how Michael will be jobless because of greedy,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,-0.3182,negative
+DOC_000963,TikTok,"Omor, succeed oo
+There's no love for the weak",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,-0.3333333333333333,negative,-0.471,negative
+DOC_000225,YouTube,"YOOOO THANKS BRO, I'LL SUBSCRIBE YOU, KEEP UP THE GOOD WORK ",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.6030226891555273,positive,0.7003,positive
+DOC_000212,YouTube,"Such a unique and beautiful story unlike those typical cheating, revenge and ragebaits it's so good and entertaining this is the 3rd time I am watching it",topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.4811252243246881,positive,0.5866,positive
+DOC_002696,TikTok,if betrayal was forgiven jesus was gonna forgive satan but sadly it's not negotiable I feel your pain montoya,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,-0.22941573387056174,negative,-0.8481,negative
+DOC_001956,TikTok,Mr.kill EP9 DewTee reaction on YT,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001918,TikTok,When his father told him that there's plenty of fish in the sea he took it to heart,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.6369,positive
+DOC_000977,TikTok,Why theres always people in the background watching? always,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001503,TikTok,me though my.mama I for fit follow her to anywhere o,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.3612,positive
+DOC_001329,TikTok,but people are u investigators like who would u recognize such,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.30151134457776363,positive,0.5023,positive
+DOC_001128,TikTok,25 August 2023 my baby died at 2pm,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.5574,negative
+DOC_002716,TikTok,@stiigmau arianna in 2021 when she heard chris breezy,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002427,TikTok,"i feel so sad watching this, because i feel like i’m watching myself",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,-0.1386750490563073,neutral,-0.3593,negative
+DOC_001220,TikTok,Nowadays I’m not seeing this video on my fyp again o,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002432,TikTok,he was so supportive  her speech had me in tearssss,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.4341,positive
+DOC_002232,TikTok,"ohhhh my goshhhhh
+I'm in love with this",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.35355339059327373,positive,0.6369,positive
+DOC_001310,TikTok,TikTok have you ever seen a robot borrowing data before?,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002772,TikTok,i haven’t watched any of the other seasons but the one on netflix SOMEONE PLEASE GIVE ME YOUR HULU,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.6186,positive
+DOC_000244,YouTube,thank you so much for uploading the whole part. you deserve a follow,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.2773500981126146,positive,0.3612,positive
+DOC_000844,TikTok,Continue trusting but u are good lady by the way,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.31622776601683794,positive,0.6908,positive
+DOC_000421,YouTube,They all look alike but the costumes are fantastic. AI has made such strides forward. Amazing,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.25,positive,0.9022,positive
+DOC_000175,YouTube,Wait like why do they have beef so much and they’re friends in an hour ,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.2581988897471611,positive,0.6808,positive
+DOC_002445,TikTok,"They leave, not cause you’re the worst. It’s the opposite. You’re the best, you’re a good person and they gravitate towards you when they need that in their life. Then when they get their fill they-",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.16666666666666666,positive,0.4215,positive
+DOC_002221,TikTok,THE BEST CHARACTERRRRRR I LOVED HERRRRRR OMG ,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.7559289460184544,positive,0.8442,positive
+DOC_000753,TikTok,"my dear it depends on the kind of man you meet
+since I know what relationship means my dear I never hurt a girl but they're hurting me always",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.18569533817705186,positive,-0.016,neutral
+DOC_000867,TikTok,life is always sweet on movies,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.4082482904638631,positive,0.4588,positive
+DOC_001679,TikTok,Dear Lord please protect Cong Leviste.,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.7579,positive
+DOC_002275,TikTok,Mark is such a caring host. The way he came and checked on her later was so touching,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.4939,positive
+DOC_001316,TikTok,"U can neva harm a pure hrt forever,only God has the final saynd his return blessing is always massive",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.2023,positive
+DOC_001780,TikTok,‘queer history’ wrap it up,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001830,TikTok,I was dressing like lesbian ever since I was 12. It was called tomboy style not lesbian style,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.24253562503633297,positive,0.3612,positive
+DOC_001774,TikTok,"find me one piece of clothing that is culturally exclusive to lesbian, I'll wait",topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.128,positive
+DOC_000686,YouTube,​ @Yinyan-u8i  approximately everyone have brain and thinking ability and decision power but people don't to be know how a world system work,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.1655,positive
+DOC_001404,TikTok,haibo wena! you have no building....you work there.,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,-0.3595,negative
+DOC_001974,TikTok,Wait why does she look like a crow if she’s a phenox,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.2886751345948129,positive,0.3612,positive
+DOC_000762,TikTok,"mama please try not to keep us waiting 
+God bless you",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.7351,positive
+DOC_002693,TikTok,Montoya is in a telenovela... don't play with him...,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.2584,negative
+DOC_000263,YouTube,"love them in human form than phoenix form bruh, most of the last scene none of them is human kinda sad for me lol",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.6361,positive
+DOC_002494,TikTok,awe we all can relate.... sometimes its nit your time yet even if you are ready in that moment sometimes things happens for a reason,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.3612,positive
+DOC_001152,TikTok,Please bring me back to the final Episode,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.3182,positive
+DOC_002161,TikTok,"I love that she gave that homeless hungry kid her jacket and then kept it pushing.  she like, I got places to be",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.41702882811414954,positive,0.7717,positive
+DOC_001373,TikTok,The faces constantly changing are killing me,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,-0.6597,negative
+DOC_001485,TikTok,people power never falls down ##%,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001831,TikTok,we gotta really stopp basing our gender identity based on clothing mannn :),topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.4588,positive
+DOC_001917,TikTok,bro nuh in fish pus,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002225,TikTok,l love this aura for aura,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.4082482904638631,positive,0.802,positive
+DOC_002539,TikTok,If they left they were meant for you and not worth your tears.,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000426,YouTube,How did he cause the other sisters misfortune? It's his first time disguising himself as a poor man?,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,-0.23570226039551587,negative,-0.6966,negative
+DOC_002353,TikTok,You should watch the rest of the seasons online,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002644,TikTok,running on the beach???? I think bro Lowkey planned that part,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000895,TikTok,"This one wey you don almost finish ur 20s, 20s no be your prime again... abi you postpone am go ur 30s",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,-0.4767,negative
+DOC_000174,YouTube,0:23 where is Mangella's other pant leg,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002388,TikTok,Of which country is this temptation island and which season?,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002759,TikTok,this kind of menn all woman wants and you still cheat OOOOH ,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,-0.4588,negative
+DOC_000050,YouTube,This film is just diff ways of saying DeMarco wrong ,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,-0.31622776601683794,negative,-0.4767,negative
+DOC_001411,TikTok,Abeg when u go post next episode I don tire to Dey check your page ooo,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001699,TikTok,pag may nangyare sau..ibig sabihin lng yan na totoo ang mga sinasabi mo...subra natong mga nangyayare..grabing administration nato..,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000201,YouTube,"​ @thereviewspot07 already subscribed, you're the goat",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002127,TikTok,U fail as a father sha,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,-0.4082482904638631,negative,-0.5423,negative
+DOC_001782,TikTok,"omg your comment is exactly like that one video was talking about  wokeness and superiority complex but not willing to ‘educate’ others, aka performative.",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.20412414523193154,positive,0.3506,positive
+DOC_000655,YouTube,it is always the same script.   great men pretending to be lowlife and get ridiculed.,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.2581988897471611,positive,0.128,positive
+DOC_000558,YouTube,"Obvious its AI , and I'm wondering how heaven had bad characters.",topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,-0.30151134457776363,negative,-0.0516,negative
+DOC_000772,TikTok,Tomorrow starts from 12am am wake waiting,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000132,YouTube,It's was kinda funny and keep going I loved very much and if any hater hate on this don't listen ,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.22360679774997896,positive,0.0018,neutral
+DOC_002410,TikTok,Just saw a guy on Tyler’s ig post “did you see Taylor? She was pretty controlling” when all she wanted was him to bring to the relationship the same things she brings to the relationship.,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.4939,positive
+DOC_001871,TikTok,My bruv is in love with a tuna,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.35355339059327373,positive,0.6369,positive
+DOC_001760,TikTok,We’re all at least a little bit gay~ lesbihonest,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001195,TikTok,chase Micheal away from your company,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001577,TikTok,"I watched this one on YouTube
+But compared to other revenge stories I've watched, this wasn't that intense",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,-0.7125,negative
+DOC_001053,TikTok,Why? It's basically April Ludgate all over again,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000253,YouTube,8:15  every elder sibling's weapon . . .,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.296,negative
+DOC_001081,TikTok,"Una sure say nor be Suka side chick born Bolin and her brother [Tears of joy]
+And Bolin took after his father",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.6369,positive
+DOC_000498,YouTube,Can you upload school bullies  100 sister story,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000579,YouTube,Why every one fera only one girls and left all and run away,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000179,YouTube,Bro grew extra arms 0:59,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000043,YouTube,Is there more? This movie is badass. I love it ,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.31622776601683794,positive,0.765,positive
+DOC_001376,TikTok,dis guys we mad o dis time around the god's of the Land he swear with with we get him up hmmm very sweet,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.10206207261596577,neutral,-0.0276,neutral
+DOC_001970,TikTok,"Wait, this is actually the END? I’d continue the chaos on Cantina.",topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,-0.5719,negative
+DOC_000006,YouTube,Literally all wrong names lmao,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,-0.4472135954999579,negative,0.2023,positive
+DOC_001969,TikTok,Yeah wonder how that tree leg would be visualized in their human form haha,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.6369,positive
+DOC_000633,YouTube,The servent to apologize is weak and the priest is corrupt,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.3612,negative
+DOC_001631,TikTok,girl I watch c-drama everyday am going to watch it now,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002320,TikTok,the way i cried so hard during this scene cause i feeeeeeel that man,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,-0.5371,negative
+DOC_000755,TikTok,wallahi I never an ever trust a man again wallahi,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,-0.4023,negative
+DOC_001072,TikTok,Lol a rare breed to be with a actual gothic christian woman and a christian worship team man.,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.6124,positive
+DOC_001416,TikTok,Who else noticed she is looking like “ Oma the pregnant virgin??,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.30151134457776363,positive,0.4329,positive
+DOC_002733,TikTok,Always ripping that damn shirt,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,-0.4019,negative
+DOC_002471,TikTok,I hope she realizes one day how magnificent she is & her worth does not depend on other people,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.23570226039551587,positive,0.8271,positive
+DOC_001005,TikTok,yoo this young lady can help a lion in labor yoo is too much,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.4019,positive
+DOC_002518,TikTok,Him coming to check on Taylor  making sure she knows her worth he’s such a good guy,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.24253562503633297,positive,0.7269,positive
+DOC_001134,TikTok,You celebrate birthday with my son wow. May the God lord bless you and lift you higher and higher,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.22941573387056174,positive,0.9081,positive
+DOC_001823,TikTok,a lot of people arnt,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000380,YouTube,"If u ever have/had this kind of parents ,sisters or bro inlaw then u better run away for good .",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.4472135954999579,positive,0.7003,positive
+DOC_001596,TikTok,I need either the YouTube link or ticktock link pls,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0772,positive
+DOC_000191,YouTube,"Dude why does Draco remind me of Draco Malfoy, like I am literally dying because I just hear “Draco” French kissing people.",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.21320071635561041,positive,0.7351,positive
+DOC_000794,TikTok,"we cover this story in the hand of God, and deny ani",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.4404,positive
+DOC_001847,TikTok,As a Tomboy from the 90s who is straight ...I'll continue dressing for my comfort ,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.5267,positive
+DOC_000040,YouTube,"Where's the rest? These are great stories, but we would LOVE THE ENDINGS ‼",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.5547001962252291,positive,0.8873,positive
+DOC_000251,YouTube,"Glad you finally found the full version here, thanks for watching! ",topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.6030226891555273,positive,0.7345,positive
+DOC_000171,YouTube,ink i'm watching tooo much,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000954,TikTok,similar with the star's secret family...,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001600,TikTok,I am so glad you liked and came bk to let me know!! that makes your girl happy,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.9428090415820635,positive,0.9045,positive
+DOC_000079,YouTube,A kids usually takes their father’s name. His sister wouldn’t have been pregnant by a DeMarco. He might have a different last name.,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002621,TikTok,"I'm not even laughing anymore its just tears now
+Montoya Por Favor ",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.2091,negative
+DOC_002328,TikTok,"No cause she was saying things out load that I feel all the time and it was so triggering, I literally cried w her",topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,-0.5859,negative
+DOC_002011,TikTok,search on YouTube Aurora the plus size bride,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000797,TikTok,"Denied by him, Chosen by a stranger is the name dear , episode two will be posted tomorrow",topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,-0.0772,negative
+DOC_001165,TikTok,"I beg calm down,e never reach lydat na",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.3018,positive
+DOC_001488,TikTok,The same history with anothers like japanese millionaire,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.35355339059327373,positive,0.3612,positive
+DOC_000911,TikTok,"you maltreat your step daughter but God is good amara one day your will find peace 
+next episode pls amen",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.22360679774997896,positive,0.9136,positive
+DOC_002191,TikTok,Pls tag me for the rest,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0772,positive
+DOC_000594,YouTube,"Why cant the voice generator pronounce minstrel. Ministers don't play the lyre, except maybe I their free time.",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.3103,positive
+DOC_001496,TikTok,"She tanked that kiss bro, just let it happen",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.4215,positive
+DOC_001529,TikTok,Tiktok na lng may bayad pa,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002311,TikTok,@char this is so sad but I’d be fuming x,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,-0.4743416490252569,negative,-0.8199,negative
+DOC_002677,TikTok,and Shorty got back to energizer bunny again and this time it's worst,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,-0.2773500981126146,negative,-0.25,negative
+DOC_000333,YouTube,"I just watched a short novela made by AI…and it was so good…hahah what is this life.
+
+Thank you for uploading this ",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.5103103630798288,positive,0.3612,positive
+DOC_002019,TikTok,I love her temper heartwarming,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.8944271909999159,positive,0.6705,positive
+DOC_000120,YouTube,"​ @W3NDASPRUNKl yeah, But that wasn't even counting all fandoms",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.1531,positive
+DOC_000637,YouTube,How stupid the mortals are  in this .. movie ? I don't know however I liked it,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.1531,negative
+DOC_001692,TikTok,May all the protection from Divine forces be with you sir…,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.5574,positive
+DOC_001219,TikTok,Once trust is destroyed it’s hard to get it back,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.0772,negative
+DOC_000118,YouTube,"Why did every fandom united to dunk on lesbian space princess
+But not this",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.2263,positive
+DOC_000052,YouTube,"43:44 If apologies fixed everything, the prisons would be empty… gurl!!!!! ",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002043,TikTok,yeayy finally i found the full version,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001633,TikTok,I hate watching c dramas here so many adds. 10 seconds drama and 15 for the add. !!! But thanks for the recommendation,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.5229,positive
+DOC_000233,YouTube,Glad you like it. Please subscribe to my channel to stay tuned,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.5773502691896258,positive,0.7783,positive
+DOC_002085,TikTok,"Mr. Demato, Mr. tomato  , DeMarco…. Whatever works",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001399,TikTok,Next part ooo abeg bring me back,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000016,YouTube,Yesss! Please upload the rest  ,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.3802,positive
+DOC_000124,YouTube,"THIS IS GENUINLY AWFUL. IT ISNT EVEN POPULAR, I WAS LIED TO!!!
+
+WAIT......THAT PUNCH WAS ACTUALLY AMAZING BEST SHOW EVER.",topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.2182178902359924,positive,0.4486,positive
+DOC_000265,YouTube,Subscribed your channel very good vedios drop any other series please,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.45226701686664544,positive,0.4818,positive
+DOC_001865,TikTok,"And also, when I see a girl looking like a lesbian and there actually straight. That a different kind of pain.",topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,-0.0498,neutral
+DOC_000946,TikTok,"your all frogs
+(shocked audience)",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.3182,negative
+DOC_002395,TikTok,"I am obsessed with the host, he healed me just by listening to his advice",topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,-0.1779,negative
+DOC_001676,TikTok,grabe na pananakot ng mga buhaya..,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000230,YouTube,Bro fell in love with this series ,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.3779644730092272,positive,0.6369,positive
+DOC_002536,TikTok,this is one of the saddest things i’ve ever watched on reality tv,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,-0.6124,negative
+DOC_000550,YouTube,The background silence is frustrating.,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.4404,negative
+DOC_002357,TikTok,Literally he gave therapist vibes!! I need him to stayyyu,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001641,TikTok,please watch the dukes devious daughter. I love it so much,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.30151134457776363,positive,0.7579,positive
+DOC_000260,YouTube,23.04 yrrrr mast hai the expression ,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001696,TikTok,Ilabas mo na boss at least kong mamatay kaman may prensipyo ka naman,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000835,TikTok,I have trust issues can never be mehow na,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.5106,positive
+DOC_000111,YouTube,​ @bluepuppystudios3617 well atleast the orcas and the leopard seals are fine. Besides we are fine still,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.5719,positive
+DOC_001634,TikTok,Thanks to your recommendation and link. I watched the sub version. So good!!!!,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.6933752452815365,positive,0.832,positive
+DOC_001398,TikTok,Pls bring me back ooo,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0772,positive
+DOC_000487,YouTube,"On top of that, none of the family members show any emotion toward the daughter, which is a major flaw and makes the whole portrayal feel completely unrealistic.",topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.2023,positive
+DOC_001031,TikTok,"I'm gonna level with you, bud. We don't care if was healthy or not. (We may care after a while if we got in his shoes, but still)",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,-0.1969,negative
+DOC_002526,TikTok,I have so much respect for her she stood her ground & learned that she didn’t need him she needed to love herself,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.21320071635561041,positive,0.8214,positive
+DOC_002233,TikTok,I love this movie though didn’t end well cox I need more episodes,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.2773500981126146,positive,0.743,positive
+DOC_001154,TikTok,Bring the next part fast plz,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0772,positive
+DOC_002530,TikTok,I cried my eyes out for her in this scene Omgg,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,-0.3818,negative
+DOC_000110,YouTube,@treattrick8991  nope. the leopard seals will kill the ones that dont die from global warming. and if they dont the orcas will,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.2392,negative
+DOC_000586,YouTube,These are all adapted from Chinese AI vertical dramas.,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002086,TikTok,and Mr. Demono. everything except the actual name. lol.,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.4215,positive
+DOC_001737,TikTok,2 questions name and why do you keep using the names jack and jenny,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000077,YouTube,"A Independent strong female lead , not the Damsel in Distress Mary Sue ",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.0258,neutral
+DOC_001723,TikTok,Our dating story but there side characters,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001237,TikTok,She really take this swore am oath together with sand serious ohh,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.0772,negative
+DOC_001473,TikTok,It's strange that all these witnesses are committing such violence and no one can stop him.,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.8402,negative
+DOC_002243,TikTok,is it just me all are we chubby people getting outfit inspo,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000428,YouTube,"I just watched one video from tiktok and it brought me here YouTube,the movie is so interesting congratulations",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.3441236008058426,positive,0.8257,positive
+DOC_000500,YouTube,"Good movie, Love from Bangladesh ",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.8944271909999159,positive,0.7964,positive
+DOC_000903,TikTok,God reavele the truth7 to the right person,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.2732,positive
+DOC_000031,YouTube,I loved Aurora Needs the next episode ,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.3779644730092272,positive,0.5994,positive
+DOC_001992,TikTok,michael douglas the GOAT,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001320,TikTok,"and vice versa, men and women are equal in a whole",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002604,TikTok,I agree somewhat. It’s harder when you love that person and don’t have much experience with the bs,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.23570226039551587,positive,0.7717,positive
+DOC_000876,TikTok,AI video can make you forget to reply WhatsApp message,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,-0.2263,negative
+DOC_001828,TikTok,"Same I blame Wildfang, their stuff is half my wardrobe. But also I’m old / very far out of your threat pool so I feel like I get a pass.",topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.2785430072655778,positive,-0.3928,negative
+DOC_001517,TikTok,Michael is more wicked than demon,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,-0.5709,negative
+DOC_000502,YouTube,"This type of serials got us to force our mind that if more than one God exist this kind of mess could happen 
+
+So trust of one God only",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,-0.18569533817705186,negative,0.7106,positive
+DOC_002402,TikTok,It was on when I was little! I used to sneak watch it back in like 2000 or something because my mum would call it trash television,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.19611613513818404,positive,0.4199,positive
+DOC_001682,TikTok,mabutikang tao idol,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001353,TikTok,Where this hair style come from but he fine o,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.296,positive
+DOC_001208,TikTok,Michael is a devil in human body,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,-0.6597,negative
+DOC_002126,TikTok,bytch im take my child word over anyone's word ~ I dont give a dam if we blood ~ you did them dam kids wrong,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,-0.20851441405707477,negative,-0.4767,negative
+DOC_002414,TikTok,This  we live in such greedy selfish times… some one is praying for a woman like her I hope she finds them or they find her. That lump in my throat came hearing her ,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.34299717028501764,positive,0.3612,positive
+DOC_001038,TikTok,Cake is cake even if it has a candle,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002602,TikTok,i’ve experienced and left!!! its all about how much you respect yourself and know youre worth,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.7074,positive
+DOC_000277,YouTube,​ @thereviewspot07 wasn't she born with other eggs,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001508,TikTok,She likes to emphasize on oath with sand,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.4215,positive
+DOC_001221,TikTok,Their faces at the dinner table scared tf out of me,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.4404,negative
+DOC_002488,TikTok,We accept the love we think we deserve  poor girl,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.5719,positive
+DOC_002728,TikTok,@lexa (cas version),topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001966,TikTok,The EMILY got me I’m laughing so hard,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.3256,positive
+DOC_001055,TikTok,first of all I found this very cute these two twin girls the fact that one of them liked him and claimed him that is beautiful all real men know what I'm talking about this was a very cute situation,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.7905694150420948,positive,0.9229,positive
+DOC_001826,TikTok,ofc the bts fan says this,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.3182,positive
+DOC_001640,TikTok,I love it when they’re quick with the revenge,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.3333333333333333,positive,0.2023,positive
+DOC_001573,TikTok,cool evry scene,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.3182,positive
+DOC_002509,TikTok,MARK IS A GIRLS MAN IDC I LOVED HIM THE MOST,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.30151134457776363,positive,0.5994,positive
+DOC_000295,YouTube,"This is as further from greek mythology than I am from a PhD in physics, and trust me I was bad at physics.",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,-0.20851441405707477,negative,-0.0516,negative
+DOC_001249,TikTok,Bro run for your life oooooo,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002083,TikTok,Me too hey [Crying][Tears of joy],topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.5859,positive
+DOC_000109,YouTube,@varishacavin628 noone cares. (Gors back to janitor ai) and honestly good thebpolar bears are dying. Now the penguins can be happy,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.4364357804719848,positive,0.9118,positive
+DOC_002343,TikTok,"I don’t know if you need to hear this today but you are worth it, big hugs",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.7684,positive
+DOC_000055,YouTube,"Am from Facebook, please upload the remaining part",topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.3182,positive
+DOC_000209,YouTube,Glad you like it. Please like share and subscribe to my channel and watch more interesting dramas ,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.9701425001453319,positive,0.9259,positive
+DOC_001210,TikTok,nawaoooo why he dey take you long to post,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002393,TikTok,"Hello  gorgeous please can I get a follow from you and send me a direct message.,,,,, i will love us to be good friends thanks",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.6,positive,0.9607,positive
+DOC_002481,TikTok,oh my god i wanna give her a hug so badly. how strong she is to be that vulnerable and real on camera given all the circumstances she was in,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.4353,positive
+DOC_000219,YouTube,"Excellent...  I like the music... when she tries to escape, fun events...",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.8660254037844387,positive,0.8807,positive
+DOC_000471,YouTube,"Thank you and thankful and grateful with gratitude appreciated for this amazing movie thank you for uploading this  
+I truly loved it. 
+Amazing  awsome movie 
+Make more long version movie on utube I . Couldn't stop watching 
+Loved the movie. 
+Very lovely awesome amazing movie 
+Thank you. 
+",topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,1.4006985834715229,positive,0.993,positive
+DOC_001424,TikTok,Some guy is posting ur videos on his page.,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001607,TikTok,"Guys. I used to get a lot of short dramas on my FYP but now I don’t , I’m so sad. Could someone please DM me some so I can get them back on.",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.26111648393354675,positive,-0.5479,negative
+DOC_001544,TikTok,[Tears of joy][Tears of joy][Tears of joy],topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.4404,positive
+DOC_001170,TikTok,Hmmm that name naa carry a lot of bad behavior,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,-0.31622776601683794,negative,-0.5423,negative
+DOC_001377,TikTok,waow the guy try if all guys are like that we will be save,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.2672612419124244,positive,0.6908,positive
+DOC_000084,YouTube,"Why did she had to lose weight she was beautiful before, and he like her before....not the full movie either...",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.4364357804719848,positive,0.5719,positive
+DOC_001655,TikTok,The damn intro music,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.4019,negative
+DOC_000396,YouTube,Cute couple. Good chemistry. Both their acting is good too.,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.9486832980505138,positive,0.8316,positive
+DOC_000107,YouTube,this is what the polar bears died for,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.5574,negative
+DOC_002040,TikTok,"Nah nah, I don’t understand how Adrian asks who she is but later on he admits he chose to marry her .. MANS BE LYING or confused",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,-0.19611613513818404,negative,-0.8047,negative
+DOC_002399,TikTok,Mark is the best on every season. That man says it like it is and holds people accountable,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.47140452079103173,positive,0.7717,positive
+DOC_000341,YouTube,I agree.i was so frustrated bro like ain't he a literal god?,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.41602514716892186,positive,-0.1287,negative
+DOC_002632,TikTok,I wish I was lying… at one point his full lenght jeans became swimmer shorts,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.4019,positive
+DOC_001468,TikTok,The calmness of the people in the restaurant after watching them being humiliated is just fueling my anger!!!,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.6458,negative
+DOC_002467,TikTok,That poor woman…I wish I could hug her so bad.,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,-0.753778361444409,negative,-0.2716,negative
+DOC_000992,TikTok,i no fit lose the nxt..,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0382,neutral
+DOC_000793,TikTok,"We cover this story in the hand of God, and deny any delayed post,
+amen",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.25,positive
+DOC_001263,TikTok,It’s not pride. A man disappointed her early in life. She didn’t want to rely on another man.,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,-0.23570226039551587,negative,-0.5908,negative
+DOC_002694,TikTok,cameraman probably had the best time filming him,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.35355339059327373,positive,0.6369,positive
+DOC_002610,TikTok,his videos is better dan the original lol,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.35355339059327373,positive,0.7906,positive
+DOC_001444,TikTok,Alhaji even if na tenth wive abeg come for me wae,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000599,YouTube,Why do all these dramas have so much hatred and yelling? ,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.6682,negative
+DOC_001288,TikTok,I don’t think it’s pride. She once trusted a man that let her down and gave her empty promises,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.743,positive
+DOC_000664,YouTube,"https://youtu.be/_X2c5CbJCm8?si=tGujm1IWLb9KuJ-k
+This is the full movie, there's about half hour missing at the end of this one.",topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,-0.296,negative
+DOC_001678,TikTok,Lord protektahan nyo po ang mga taong may malasakit Sa mga Pilipino,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.5574,negative
+DOC_001861,TikTok,I totally agree because I’m confused then enraged when a man hits on me.,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,-0.2672612419124244,negative,-0.2975,negative
+DOC_000885,TikTok,we were looking for this AAA rolls Royce,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000758,TikTok,"I just posted this my love, will post episode 2 tomorrow",topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.31622776601683794,positive,0.6369,positive
+DOC_001483,TikTok,"you can type on the next episode, and it will pop up for you. It has been uploaded already. It's a very nice movie",topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.3061862178478973,positive,0.4754,positive
+DOC_002594,TikTok,He cheated on the girl he was running to,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,-0.5106,negative
+DOC_002338,TikTok,This scene made me so sad. Because it’s relatable.,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,-0.5,negative,-0.6113,negative
+DOC_001660,TikTok,[Heartwarming][Heartwarming][Heartwarming],topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,1.7320508075688774,positive,0.0,neutral
+DOC_001104,TikTok,Happy birthday to our little angel,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.4082482904638631,positive,0.5719,positive
+DOC_000926,TikTok,tomorrow my love e no easy ooo,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.3779644730092272,positive,0.4203,positive
+DOC_001223,TikTok,They suppose beat that Michael,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000102,YouTube,I cant stand the mother lol,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.4215,positive
+DOC_002425,TikTok,I cried so hard at this part  these poor girls I feel for them,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,-0.2672612419124244,negative,-0.7626,negative
+DOC_001499,TikTok,Him and the little guy made the show funny as heck,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.30151134457776363,positive,0.4404,positive
+DOC_002128,TikTok,evil aunt why treating your brother's children as orphans,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.6597,negative
+DOC_000404,YouTube,Laughed everytime they made appolo run ,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.4588,positive
+DOC_000905,TikTok,"wicked step mother, next episode",topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,-0.5267,negative
+DOC_001052,TikTok,It blows my mind that is Aubrey Plaza.,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002506,TikTok,Women are true empaths,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.4215,positive
+DOC_001415,TikTok,She look like oma the pregnant virgin,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.3779644730092272,positive,0.3612,positive
+DOC_002244,TikTok,love this plus wife size,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.4472135954999579,positive,0.6369,positive
+DOC_001058,TikTok,those are not twin girls my boy. one of them is a dude,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001770,TikTok,"no, it has a historical and cultural meaning",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002007,TikTok,So did he not just shoot him directly the first time. No harm in shooting him directly again if he wanted to make sure he is dead.,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.223,positive
+DOC_000113,YouTube,​ @bluepuppystudios3617 no need. They said that about internet and look at where we are at now. Ill tell you. The people who make data centres brains will turn on and find safer ways of doing it. But whos to say. I dont know and dont care. Cause thinking of it hurts my brain,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.8478,negative
+DOC_002582,TikTok,90’s flashbacks hitting hard right now,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,-0.1027,negative
+DOC_001996,TikTok,I didn't know Michael Douglas played an assassin,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.34,positive
+DOC_002347,TikTok,I relate so hard to tayler. I was sobbing right with her,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,-0.5371,negative
+DOC_002210,TikTok,I have loved the new mummy thanks beautiful ,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,1.0606601717798212,positive,0.8934,positive
+DOC_001000,TikTok,true...and this is real life I feel like tagging someone,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.30151134457776363,positive,0.3612,positive
+DOC_002027,TikTok,Yes girl..I love the bride,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.4082482904638631,positive,0.7845,positive
+DOC_002400,TikTok,"Ahh, i didn’t even know they had one around that time. I was so confused why the “newest one”",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,-0.3441236008058426,negative,-0.4572,negative
+DOC_000442,YouTube,Before ai this type of editing took millions of dollars but today.......,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002511,TikTok,"God, I want to hug her and be her cheerleader. She is so deserving of a better perspective of herself.",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.22360679774997896,positive,0.8519,positive
+DOC_001466,TikTok,Okay i am FULLY confused what the fuck is happening,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,-0.31622776601683794,negative,-0.7119,negative
+DOC_000088,YouTube,This is not even close to the whole movie….just another rabbit trail into the search bowl.,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002575,TikTok,ma torna su facebook che hai 50 anni,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002505,TikTok,"I almost cried during this scene , as women we’ve all been here but with growth she’ll realize she’s looking at it wrong .. with growth she’ll realize god allowed that for her & not to her",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,-0.17149858514250882,negative,0.5642,positive
+DOC_002683,TikTok,man was acting like a 2000s music vid,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.35355339059327373,positive,0.3612,positive
+DOC_002004,TikTok,title: playing dead,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.5423,negative
+DOC_000818,TikTok,Shadow banned people how una dey,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.4588,negative
+DOC_000892,TikTok,there is only one woman in uganda who bought rolls Royce. it was my first time to hear about it,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000085,YouTube,Dudes said Demarco correctly ONCE in an hour  this was great but I NEED the rest please!!!,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.24253562503633297,positive,0.7488,positive
+DOC_000147,YouTube,"It's part of the earth's cycle, as we saw in Pangea the ice caps melt and thaw and melt and thaw over thousands even millions even billions of years. The water that is already being lost is about 1% AI cooling water. And even if all of it was AI we would reach the point of ""no ice on earth and no snow even in the coldest countries"" in hundreds of years. Please stay in school",topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,-0.2732,negative
+DOC_000162,YouTube,The head shake of the grape lollll ,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,-0.1779,negative
+DOC_000217,YouTube,"One of the cutest AI dramas so far! I love the protective family and the very low amount of frustrating moments, unlike most AI dramas that purely rely on ragebait. Thanks for the upload!",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.42874646285627205,positive,0.8154,positive
+DOC_000186,YouTube,TFYM 'ITS BAD CUZ NO TOUNGE',topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,-0.4082482904638631,negative,-0.6908,negative
+DOC_002504,TikTok,I have never felt so seen in my life when she said those words. I sobbed so hard.,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,-0.5812,negative
+DOC_000133,YouTube,I find it stupidly funny and annoying,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,-0.4215,negative
+DOC_002773,TikTok,@* how draco expected us to act whenever she brought her chopped bf,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002194,TikTok,"You want my power, no I want my own, most people miss this two even as a couple.",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.4589,negative
+DOC_000582,YouTube,THR R SO MANY VERSIONS OF THIS...THERE'S A CHINESE TOO AND ANOTHER ONE,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001168,TikTok,Even spiritual husband no worry person like this,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,-0.35355339059327373,negative,0.6002,positive
+DOC_002520,TikTok,Literally cried & inlove mark,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,-0.3818,negative
+DOC_000919,TikTok,all the movies use the name Amara.....next time use another nsme,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001753,TikTok,I unfortunately love men AND I dress as a tom boy or Adam Sandler.,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.4215,positive
+DOC_000355,YouTube,"When I finished it I said to myself “did I just watch a Greek mythology soap opera made by AI? But most importantly, where do I find the sequel?”",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.5789,positive
+DOC_001628,TikTok,"Every drama you recommend, I have always seen them on TikTok and yeah you are on point with your review,few days after I see them, TikTok algorithm just brings your review to my fyp. I will be tagging you to interesting C-drama on TikTok if that’s ok by you?",topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.28005601680560194,positive,0.8225,positive
+DOC_001659,TikTok,"""don't all jump on me, I'm easily scared "" lucu bgt sh dia",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.128,negative
+DOC_002123,TikTok,leo gtg bgt anjayy,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001476,TikTok,Karma is such a bitch yunno,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,-0.5859,negative
+DOC_001817,TikTok,Well if you wondered how to dress straight fitted clothing is it at the easiest form for women. it is suppose to show your figure your bust and butt. You will get attention from men maybe even approached if some dude is up for it.,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.7003,positive
+DOC_001642,TikTok,hes so lucky but unlucky at the same time hahahah,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.2609,positive
+DOC_000131,YouTube,In the show was pretty good. It helped lower my anxiety.,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.30151134457776363,positive,0.4939,positive
+DOC_002057,TikTok,this is good.someone tag me once the next episode uploaded,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.30151134457776363,positive,0.0,neutral
+DOC_001230,TikTok,Aunty post next nah,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,-0.1027,negative
+DOC_001308,TikTok,y did Micheal saying she's standing on his building like she owes it?,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.2773500981126146,positive,0.3612,positive
+DOC_001548,TikTok,A2wa Actorr Josephhh,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002110,TikTok,okay i came from Facebook to watch the rest yeah ,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.4767,positive
+DOC_001891,TikTok,I don watch this film finish for TikTok,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000001,YouTube,Finaly a straight to the point shortfilm. No dragged out dialogues. ,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.2612,positive
+DOC_002549,TikTok,French? I don’t speak French,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001096,TikTok,For me Ann’s world  is the best she post faster than anything,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.2886751345948129,positive,0.6369,positive
+DOC_002592,TikTok,Fr I love a man that yearns por favor ,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.3333333333333333,positive,0.7845,positive
+DOC_002651,TikTok,Yh but still running along the beach n screaming like that tm,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.2886751345948129,positive,-0.0387,neutral
+DOC_000266,YouTube,Wow tnx dear can you please post siren love story too?,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.6030226891555273,positive,0.9325,positive
+DOC_001769,TikTok,or maybe we stop putting labels to clothing,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,-0.296,negative
+DOC_001815,TikTok,But I hate fitted clothing. It’s so uncomfortable,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,-0.35355339059327373,negative,-0.891,negative
+DOC_000534,YouTube,Irene is so damn beautiful,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.6708203932499369,positive,0.1747,positive
+DOC_001238,TikTok,Victor if you accept her you will have me to contend with,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.4215,positive
+DOC_000987,TikTok,"this video made to remember some one but God is so faithful,my brother be strong",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.7964,positive
+DOC_001807,TikTok,Fitted clothing for women is the easiest way to dress straight for a women.,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.5719,positive
+DOC_001694,TikTok,May Tao to na pinagkatiwalaan na pag may mangyare dito matic may magpa palabas,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000526,YouTube,The bodyguard for Apollo is useless ,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,-0.4215,negative
+DOC_001178,TikTok,Ethan’s mother is such a darling woman,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.5859,positive
+DOC_001278,TikTok,Like….. I don’t understand him oh  my building every time,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.31622776601683794,positive,0.0,neutral
+DOC_002570,TikTok,Soraya usa “pianto”,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000123,YouTube,@PvtSpaghetty    GOD I WATCHED THE 1ST 17 EPISODES AND MY BRAIN IS DYING,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.4278,positive
+DOC_002629,TikTok,Popped a shirt open and had buttons flying literally every episode.. I know his shirt collection keeps decreasing as we speak,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000101,YouTube,How many different ways to pronounce Demarco?  LOL,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.5473,positive
+DOC_002370,TikTok,I want to hold her so bad and be her friend. God knows we all need a real one in this world on our side,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,-0.3,negative,0.0281,neutral
+DOC_001937,TikTok,bro iss living the mermaid fairy tail,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001919,TikTok,and in the end Aquaman legend is born again,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002565,TikTok,I felt bad but she was also the rebound. I can’t wait for the rebound to feel broken like this. I’ve been so hurt feeling like this for a year it sucks for the one it happened to.,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,-0.16222142113076254,negative,-0.8242,negative
+DOC_001934,TikTok,bro has reached apex,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.1027,positive
+DOC_000722,YouTube,Also sex in Greek meant anal sex and homosexualality and perversion even worse by the time of the Roman Empire came along.,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,-0.6597,negative
+DOC_000748,TikTok,Is true you have to fear men they are betrayers,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,-0.1027,negative
+DOC_000108,YouTube,This is what the human species is going to die for.,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.5994,negative
+DOC_000181,YouTube,coconick should be witth watermalina,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001023,TikTok,"b
+https://vm.tiktok.com/ZS92KU9sXMJbR-B8rW7/ This post is shared via TikTok Lite. Download TikTok Lite to enjoy more posts: https://www.tiktok.com/tiktoklite",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.18569533817705186,positive,0.6808,positive
+DOC_002122,TikTok,she reminds me of Anniza.. Plus size but sexy PSMen lady .,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.6808,positive
+DOC_002596,TikTok,Yes  he gotta be plotting because nooo way,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.4019,positive
+DOC_001551,TikTok,The substitute consorts revenge: https://www.tiktok.com/t/ZP8s7FHTY/,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,-0.5267,negative
+DOC_002282,TikTok,I loved that!! Mark is so real and genuine,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.3333333333333333,positive,0.6688,positive
+DOC_001486,TikTok,swapped to a bagger but is Apollo,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002348,TikTok,Mark was amazing in this show. My favorite character!,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.6666666666666666,positive,0.7959,positive
+DOC_000611,YouTube,Why is the blonde chick always shouting? I mean her parents too.. oh ai,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002205,TikTok,I want it all back Elena!! AT THIS POINT GIVE ME UR SOUL BYTCH!!!,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.3544,positive
+DOC_001649,TikTok,peak story peak design and peak smooth,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001189,TikTok,The oath de3 she remembers everytime,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001336,TikTok,Sometimes I feel like entering the AI world and give Cynthia a dirty slap,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.2672612419124244,positive,0.0516,positive
+DOC_000121,YouTube,Nooo WAY  the drama is bigger than the real love Island ,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.30151134457776363,positive,0.6369,positive
+DOC_000997,TikTok,Part 2 already posted check next post,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001838,TikTok,And that’s conforming to the norm and sterotypes,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002555,TikTok,"@Tayler Byrd you’re so real and your heart is so big that you pulled on everyones heart strings, you are SO strong",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.9388,positive
+DOC_000071,YouTube,Ugh finally no repeating the same lines over and over again just to drag out the story,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,-0.7096,negative
+DOC_002359,TikTok,"he’s not a character. these are real people, he’s an amazing host and human not character",topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.25,positive,0.5859,positive
+DOC_000325,YouTube,I was having the same thoughts. Actually not gonna finish the vid.,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001116,TikTok,happy birthday beautiful,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,1.1547005383792517,positive,0.8225,positive
+DOC_001848,TikTok,this goes for the girls too! i cant go and hit on a visibly queer dressed woman and she’ll hit me with “im straight”,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001009,TikTok,"So someone who does all these can't take care of you in marriage??
+Nawa oo",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,-0.4567,negative
+DOC_000058,YouTube,"Reminds me of that great lady Delta Burke,she didn't let people push her around either on Designing Women.",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.22941573387056174,positive,0.6249,positive
+DOC_001615,TikTok,Is this AI? Clicked on your link and only see the ones with AI. Is there another link to the actual actors?,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000713,YouTube,Talk so much and worth nothing cant believe these ai movie so stupid,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,-0.41602514716892186,negative,-0.4943,negative
+DOC_001050,TikTok,she laughed like a seagull it's so damn cute,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.8333333333333334,positive,0.6471,positive
+DOC_001758,TikTok,"""why do people think I'm a lesbian?"" then this be how I dress...im sorrryyy[Crying]",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001846,TikTok,For real!! I can’t tell who I can hit on anymore [Tears of joy],topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.5399,positive
+DOC_001947,TikTok,bro betrayed humanity for some fishy puh,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.6124,negative
+DOC_000129,YouTube,Eww way worse than I thought bro I feel bad for polar bears,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,-0.2773500981126146,negative,-0.765,negative
+DOC_000010,YouTube,Nope had chatpgt find the full version for free ,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.5106,positive
+DOC_000022,YouTube,Facebook had me searching all over for the rest of this movie. Thank You,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.2672612419124244,positive,0.3612,positive
+DOC_000973,TikTok,Too much talking makes the story boring. Cut the plenty talking and make the story short and interesting,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,-0.1779,negative
+DOC_002349,TikTok,yes he was so nice to the ladies always uplifting them,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.45226701686664544,positive,0.7443,positive
+DOC_000418,YouTube,"Good movie, it shows treat everyone the same whether rich or poor, powerful or not. Judge by one's character, not looks. By the time they realized what they had done, it was too late to repent.",topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.836,positive
+DOC_001183,TikTok,Most men don’t want you to be better after breakup. Michael na wizard oo,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.2672612419124244,positive,0.5367,positive
+DOC_000561,YouTube,55:42 Eris seems to have more aura than this Apollo god?? wth is this?,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.4291,negative
+DOC_002003,TikTok,Movie Title: Beyond the Reach!,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.1007,positive
+DOC_000869,TikTok,"don't trust this plz , relationship is very painfully",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,-0.7202,negative
+DOC_002363,TikTok,"He’s not a character, he’s a person lol",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.4215,positive
+DOC_001442,TikTok,Yes ooo  I discovered after commenting ooo,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.4019,positive
+DOC_002206,TikTok,"Omg really a partner in crimes ,love the relationship tht isn’t based on lust only I mean their feeling can develop wht matters more is protecting and backing up each other..",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.1796053020267749,positive,0.7096,positive
+DOC_000029,YouTube,Finally a good ai movie he believes his child and love his wife and  not blind,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.5,positive,0.854,positive
+DOC_000169,YouTube,This is soooo messy and I loveee itttt,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.3612,negative
+DOC_000918,TikTok,wicked woman amara be strong tomorrow will be fine,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.1779,positive
+DOC_000020,YouTube,Whoever posted this I love you my g  I needed to watch this lol,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.2672612419124244,positive,0.8151,positive
+DOC_001684,TikTok,keep safe  truth will always prevail,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.6369,positive
+DOC_001840,TikTok,I’m married and tired  and flat chested. Ima keep wearing my over size Ts and bagggy pants .,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,-0.24253562503633297,negative,-0.4404,negative
+DOC_001481,TikTok,nakakabwiset potek hahahahahahaha akala ko matatapos na e,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001458,TikTok,The series is worse than Indian dram,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,-0.4767,negative
+DOC_002079,TikTok,"I finally found it here in tiktok, anyone coming from Facebook",topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000617,YouTube,why everyone is screaming on top of their voices in these AI stuffs?!!,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.3365,negative
+DOC_000626,YouTube,King Beast story is better ,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.4472135954999579,positive,0.4404,positive
+DOC_002680,TikTok,MONTOYA LEAVE THAT GORL JUSEYO,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.0516,negative
+DOC_001764,TikTok,if ur talking about dressing likemasc tomboys exist,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002774,TikTok,This is what real heartbreak looks like.. We thank Montoya for showing us to remain single,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.5,positive,0.0772,positive
+DOC_000518,YouTube,Why is the dad constantly shouting ,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000602,YouTube,Those who read the Bible know the name apolion,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000300,YouTube,​ @freakylee10 but that will take a lot of your data and time wasting as well,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.2263,negative
+DOC_001179,TikTok,Micheal u will not die good  very black wicked man,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,-0.31622776601683794,negative,-0.4476,negative
+DOC_002448,TikTok,This was the first time I cried over a reality tv show bc one it’s so raw and real. Also I l felt her pain over the screen.,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,-0.1889822365046136,negative,-0.4404,negative
+DOC_001282,TikTok,The party is here  dial *928*428*362# grab your tickets now !!!,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.5538,positive
+DOC_000310,YouTube,"Congratulations 
+U get to be the second queen of appollo",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.5994,positive
+DOC_001094,TikTok,Ola n tola is the best Ai series Soo far,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.31622776601683794,positive,0.6369,positive
+DOC_000464,YouTube,Her life is miserable even when she’s married,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.4939,negative
+DOC_001457,TikTok,The worst story I ever watched ↕,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,-0.4082482904638631,negative,-0.6249,negative
+DOC_001459,TikTok,I know I thought Serena was pregnant and swallowed a pill  what??,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002519,TikTok,I loved this group of girls and hated the men for them i just fast forwarded the dudes dates after this,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,-0.0772,negative
+DOC_001167,TikTok,"life is change easy In A,I videos may Allah change our destiny esear in this world",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.4404,positive
+DOC_002744,TikTok,"Sadly, I don’t have any more shirts left :(",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,-0.7152,negative
+DOC_002132,TikTok,Girl! I can’t stop watching it!!! So glad the episodes are free on TikTok bc i wasn’t about to pay to watch them!!! It’s soooooo good. Lord.,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.4811252243246881,positive,0.8636,positive
+DOC_001738,TikTok,I actually started rewatching this funnily enough,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.5228,positive
+DOC_000114,YouTube,Soldiers in ww2 died for this shiii,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.5574,negative
+DOC_002276,TikTok,Really appreciated seeing him instead of Vanessa and Nick  can’t stand them.,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.5563,positive
+DOC_001942,TikTok,This film isn't on Netfliix or YouTube,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001474,TikTok,Why are the people still eating at this fucked up place haha,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.5023,negative
+DOC_001029,TikTok,"yall forgot how toxic their relationship was?? Like theyre cute and they made up and all, but that shit was NOT healthy.",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.42640143271122083,positive,-0.7504,negative
+DOC_001973,TikTok,you seriously didn't notice you had an extra leg?!,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,-0.2481,negative
+DOC_002038,TikTok,"I like her, teaching rude people a lesson is the best thing",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.5773502691896258,positive,0.5719,positive
+DOC_002584,TikTok,Y a la primera toma/ At the first scene shot,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001765,TikTok,unfortunately its comfier and i choose comfort.,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,-0.3779644730092272,negative,0.0258,neutral
+DOC_001185,TikTok,Michael you are buying more than you can chew,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000959,TikTok,The star's secret family . Same story diff actors you can find in PineDrama,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000928,TikTok,Omoh this Ai movie too sweet abeg next pls,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.3333333333333333,positive,0.5106,positive
+DOC_001106,TikTok,happy birthday mamita,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.5773502691896258,positive,0.5719,positive
+DOC_000307,YouTube,Bollywood sucks bro. They can't even make scripts 10% of this,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,-0.31622776601683794,negative,-0.3612,negative
+DOC_002656,TikTok,He watched as his long-term girlfriend was about to get her cheeks clapped by another guy in a whole different villa in real time it lowkey was,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002667,TikTok,Na I feel bad for him as well shi fcked up,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,-0.30151134457776363,negative,-0.34,negative
+DOC_002688,TikTok,This is cinematic the song lmao.,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.5994,positive
+DOC_001802,TikTok,"I am completely relax, my statement couldn't have been more calm actually",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.699,positive
+DOC_001786,TikTok,"and it’s not a superiority complex if I just want to protect my people and community, don’t know if you have a community to protect but if you do, you should understand",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.3031,positive
+DOC_001993,TikTok,the best part was when he made an espresso from his load box ..,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.2773500981126146,positive,0.6369,positive
+DOC_001244,TikTok,karma has Got him he only card about his feelings she was wrong for leaving him alone for his boss,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,-0.22360679774997896,negative,-0.6249,negative
+DOC_002454,TikTok,"I felt this I literally only have one friend and no family, everyone left. It's like I'm used to it but low key it hurts and makes you question a lot.",topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.1796053020267749,positive,-0.6757,negative
+DOC_001852,TikTok,Men will hit on every girl they see. They don't care if you're gay. They're vile.,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,-0.7736,negative
+DOC_000119,YouTube,everyone did dunk on this already. also lesbian space princess genuinely sucks too lol,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,-0.2672612419124244,negative,0.0772,positive
+DOC_001842,TikTok,"Ok but to be fair I’ve been dressing a lot of different ways since middle school and people still think I’m gay  (I’m not, I’ve tried)",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.5499,positive
+DOC_000021,YouTube,"Loved this story. Loved Aurora - strong, affirmative, zero bs tolerated. Wish she was plump throughout and just change figure at the end. I think it would've given a bigger social impact. She looked great either way, tho. Loved the character. I also like the fact that the ML wasn't easily swayed by the family like the other dramas. Saving this one to watch it again later. ",topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.7385489458759964,positive,0.977,positive
+DOC_001092,TikTok,Me too my focus was on Asa sacrifice because this delayed,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.2789,negative
+DOC_000240,YouTube,Thanksss omg i hate watching the ads its like 2 ads per 2 minutes,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.296,negative
+DOC_001027,TikTok,nah fr. him fumbling eska was top 3 fumbles in avatar.,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.1027,positive
+DOC_000246,YouTube,"thank you for the whole movie,you earn a new subscriber",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.30151134457776363,positive,0.3612,positive
+DOC_001590,TikTok,Is anyone noticing that tiktok has removed episodes of dramas?,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001024,TikTok,"Social media too funny, you go just login see person wey e life don spoil pass your own... Your mood go just lighten up",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.20412414523193154,positive,0.4404,positive
+DOC_002501,TikTok,Ik how she feels my heart broke even more,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.34,positive
+DOC_002296,TikTok,"Gurl seeing the first bon fire, he clipped the parts to make the girls sound BAD, and uncaring. And left out when they said ""i dont need him but i want him"" and etc.. this caused the men to stop caring since day 1 they clipped it to make the girls look like they belittling and dont give af",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.4373,positive
+DOC_000692,YouTube,Watched the whole 45min on a advert  there goes skip.,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002430,TikTok,temptation island on netflix!,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000939,TikTok,How many slaps has Lexi already received?,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002290,TikTok,Mark is the best! He stands up for these girls a lot and the other seasons he’s soooo good!,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.4588314677411235,positive,0.8264,positive
+DOC_001465,TikTok,"everything they done, other people mind their own business eating",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002469,TikTok,"Literally balled my eyes out, I felt for each and one of those girls who had to watch there boyfriends cheat.",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,-0.4588,negative
+DOC_001089,TikTok,bruh pass the ball,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000782,TikTok,tag me when you drop the next episode,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,-0.2732,negative
+DOC_000636,YouTube,"Way before she chose apollo the father and mother were so rude to her, is those were her real parents? why were they mocking her before chosing her husband. Also, the evil sister got better man for herself, and though her sister got a beggar yet why the fuck she was upset and jealous? makes no sense. are they real family or what? The AI is soo good, but the plot line not so much.",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.23094010767585027,positive,-0.8509,negative
+DOC_001749,TikTok,"No, we actually just passed a law about it and the punishment is life in prison",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,-0.7579,negative
+DOC_002093,TikTok,I came from instagram bc I knew TikTok would have it  but AURORA!!!? That’s my gworllll,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001006,TikTok,"Did I hear my wigs,my rent,my clothes,my skincare products my transport and you still leave such a man? confused lady",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,-0.20851441405707477,negative,-0.3612,negative
+DOC_001832,TikTok,shes talking about sexualities not gender,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002475,TikTok,"Rejection is protection. Those people shouldn't be in our lives. I've learnt that. People leave because THEY are not worthy of your love, loyalty and time.",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.19611613513818404,positive,0.3806,positive
+DOC_002643,TikTok,the slow mo of him ripping off the shirt is FRYING MEEEEEE,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001981,TikTok,"She’s an abbysal phoenix, they look like crows but they control the dead, light and dark.",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.25,positive,-0.7351,negative
+DOC_000206,YouTube,"respect!!!! he posted a whole video without those just ads pretending to be full movie, and those just story they just read like lol, thankss so muchhhh ",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.19245008972987526,positive,0.8741,positive
+DOC_002002,TikTok,He guess he did not know how to drive. He could have taken the car.,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002542,TikTok,"I've spoken these words for words, because it's true everyone leaves.",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.4215,positive
+DOC_001683,TikTok,"be strong cong
+Allah bless you",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.7269,positive
+DOC_002762,TikTok,Not u reposting Montoya @kitanthephilosopher,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001675,TikTok,Nkakahiyang bayan napilipinas ng dahl lng s mga maletang deniliver s mga matataas n mga politiko ai ngkagulo na dhl s nkaupo ngayon n president ng pinas ang gulo ntin sobrng nkakahiya nkakahiya,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002140,TikTok,Literally! I would've scrolled off of it but this one is gooooooddd,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000650,YouTube,This was interesting at the beginning but at the middle unnecessarily long and stupid.,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.5789,negative
+DOC_001868,TikTok,"in ten months, Aquaman is born",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001375,TikTok,Story sweet sha,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.5773502691896258,positive,0.4588,positive
+DOC_001555,TikTok,just finished watching it here on tik tok Saturday. it's,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000362,YouTube,Curiosity kills the cat ,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.5423,negative
+DOC_001864,TikTok,I had no idea you could «dress as a lesbian»,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,-0.296,negative
+DOC_001796,TikTok,"and you would know how? if you know nothing about a topic you should not talk about it lmao, I never said it’s cultural attire, that is not the only way clothing can be important to a community and its history, you just want to argue bro gtfo",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.5574,positive
+DOC_001077,TikTok,bolin should've passed me the ball,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000590,YouTube,"If you want to watch this movie, do put your speaker volume to 10% or less, this is because from start to end, all you can hear is AI screems, that's my 2 cents ",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0772,positive
+DOC_001695,TikTok,Tama lng na masabe mo sa esang safe na Lugar,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.4404,positive
+DOC_001543,TikTok,kter aweya[Tears of joy][Tears of joy][Tears of joy],topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.5859,positive
+DOC_000002,YouTube,For real I hate that shit lol,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,-0.3779644730092272,negative,-0.6705,negative
+DOC_001456,TikTok,Part2 from South Africa,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002562,TikTok,"i literally love taylor. i related to all of her rants & confessionals. every time she expressed herself, i understood & i cried",topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.2182178902359924,positive,0.0772,positive
+DOC_000070,YouTube,awww ms demono and mr demonto  theyvget the last name wrong every time ,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,-0.2773500981126146,negative,-0.4767,negative
+DOC_000671,YouTube,"Stupid dialogues, no music or reasonable background noise, such as hoof clopping, wind, ..",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,-0.2773500981126146,negative,-0.6808,negative
+DOC_001071,TikTok,bro I would have folded so fast,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001887,TikTok,Vegetarians hate to see him coming,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,-0.4082482904638631,negative,-0.5719,negative
+DOC_002500,TikTok,id probably leave me too ughhhh my soul,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.0516,negative
+DOC_000105,YouTube,"Okay, I will not take a shower for a month to compensate watching this. ",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.2263,positive
+DOC_000519,YouTube,Dami namang kontrabida ng bidang babae tas parang hawig si Irene tska yung mayabang na godess kuno na si Callisto. ,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000560,YouTube,mortal is now read as myurnal?,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002455,TikTok,I'm sorry! one day we will have people that stay. I try to be hopeful,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.5093,positive
+DOC_001269,TikTok,The thing dey vex me ehn,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002717,TikTok,BECAUSE I FOUND A SITUATION TO ALL MY. FRIENDS RHAT MATCHED THIS CIEEO I AM SOBBING,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.128,positive
+DOC_000273,YouTube,This is complete video. If you wanna watch more such interesting videos than check out our channel and subscribe it ,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.22360679774997896,positive,0.4549,positive
+DOC_000513,YouTube,AI has studied what moves us weither we like to admit it or not,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.2672612419124244,positive,0.5106,positive
+DOC_002437,TikTok,"When you love yourself, truly love yourself…the people around you will be the people who DESERVE your love.",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.6882472016116852,positive,0.9477,positive
+DOC_000025,YouTube,"I swear the logic doesn’t logic but imma just turn off my brain and enjoy
+
+43:15 omfg what is with the stepmother plot ",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.21320071635561041,positive,0.6369,positive
+DOC_000521,YouTube,damn the father always shouting,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.4019,negative
+DOC_001479,TikTok,8080 talaga ang lahat dyan noh? wala bang internet dyan?,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002497,TikTok,need someone like Mark in all our lives . and I wanna hug Taylor so bad if I was there at that moment .,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,-0.10660035817780521,neutral,0.204,positive
+DOC_001686,TikTok,ingat po kayo sir ,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.5574,negative
+DOC_002396,TikTok,"Yesss but I swear i wished it was a woman host to give them advice , mark came off like a dad/big brother as women we be needing that real reality check only women can give",topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.16666666666666666,positive,0.4497,positive
+DOC_002490,TikTok,Omg I want to hug her so bad,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,-0.5303300858899106,negative,-0.101,negative
+DOC_001908,TikTok,yeah this movie was definitely someone's fetish,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.5994,positive
+DOC_001708,TikTok,Our dating story: the experienced you and the inexperienced me,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000999,TikTok,These kind of girls will suffer for it in their lives,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,-0.5423,negative
+DOC_002278,TikTok,No same omg I was just thinking that he’s sooo much better than Vanessa and nick,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.25,positive,0.1779,positive
+DOC_001580,TikTok,Watch story of Ming,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002771,TikTok,I can’t wait to see Huda crash out like this,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.31622776601683794,positive,-0.0516,negative
+DOC_000715,YouTube,Boyset na movie wlng kwenta masaktan muna ang bida bago makilala ang lord boyset,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002662,TikTok,Tom from The Boondocks got competition,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000033,YouTube,Oh how I love Aroura this girl is so good at what she does ,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.6681531047810609,positive,0.8377,positive
+DOC_002157,TikTok,waiting until episode 100 hehe,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000192,YouTube,Dude you can’t leave us hanging like that,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.35355339059327373,positive,0.3182,positive
+DOC_002529,TikTok,I cried so bad and now I’m crying again,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,-0.5,negative,-0.8804,negative
+DOC_001873,TikTok,It keep saying him in references to the fish he keep kissing,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.5719,positive
+DOC_001406,TikTok,make we prepare thunder for that Micheal,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001540,TikTok,tq girl I comeback when I see it comment,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001995,TikTok,he fired several times but did mot shot him even when he was close,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,-0.3182,negative
+DOC_001136,TikTok,Happy birthday August 25,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.5773502691896258,positive,0.5719,positive
+DOC_002761,TikTok,THE SHIRT TAKE OFF IS GENUINELY RIPPING ME TO SHREDS IM GALLOPING @nevaehᡣྀིྀི.,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002134,TikTok,The lead woman isn’t weak. The lead man isn’t stupid. It’s great.,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,-0.296,negative
+DOC_000897,TikTok,[Tears of joy][Tears of joy][Tears of joy][Tears of joy],topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.4404,positive
+DOC_001745,TikTok,Clothes have nothing to do with your sexuality and people should be allowed to dress however they want to.,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0772,positive
+DOC_000447,YouTube,"The AI movie was pretty good except for the dialogues where 'Minstrel' was being misspelled as 'Minister', 'Olympus' as 'Olympius', and so on.",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.20851441405707477,positive,0.7269,positive
+DOC_000250,YouTube,Finally found the full episode! I've watch a short video of this on tiktok but it didn't give me a full one so I searched it up on YouTube and finally I've finished it!.,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002641,TikTok,sabay sabay Tau gumamit Ng ganitong emoji,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000117,YouTube,A pilot bear died for this scene 0:56,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,-0.5574,negative
+DOC_001721,TikTok,"our dating story, but disclaimer: this is not the main couple and it only appears towards the end",topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001834,TikTok,eaxtly so what does gay look like? and what does dressing like a lesbian mean?????? And what does that have to do with someone you’re attracted with???,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.3849001794597505,positive,0.8299,positive
+DOC_002776,TikTok,Everyone leaves…. Wether it’s death that does you part or choice but still genuinely everyone has left even my father and then they wanna act as if there still there this is why we need to be our…,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,-0.3506,negative
+DOC_001671,TikTok,my god protect Cong leviste,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.5719,positive
+DOC_001742,TikTok,let people dress however they feel comfortable,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.5106,positive
+DOC_001862,TikTok,"i wear males clothing ""looking gay"" so I don't get sexualized & hit on",topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001065,TikTok,Avatar: the legend of Korra. You need to watch Avatar: the last airbender first tho,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001784,TikTok,"no girl, there’s a lot of stuff to search, I can’t fill you up from one comment, and also that person was not willing to genuinely learn, but was arguing with me just to prove themselves right, why would I waste my time on someone that doesn’t actually give a sh about the topic, stfu and stop being homophobic",topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,-0.13018891098082389,neutral,-0.9022,negative
+DOC_001913,TikTok,same universe and yeah some of the members of UNIT from the other shows appear,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.296,positive
+DOC_001804,TikTok,"yep but not only when it's convenient for some people and more if they're normative, lesbians have been single out for decades due to their cloches when they are non normatives while straight women do it to look cool. She's joking, everyone can use whatever they want but just question about it",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.8271,positive
+DOC_002254,TikTok,ma Temptation Island nel 2026,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001085,TikTok,dawg pass the fucking balllll,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001359,TikTok,i wish one day my story will change like Cynthia,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.31622776601683794,positive,0.6369,positive
+DOC_001011,TikTok,brotherhood obtain sense oo and be smart in life,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.4019,positive
+DOC_001690,TikTok,Ngkakagulo tyong lht s loob ng pilipinas.pilipino mga pilipinas gumising kyong lht n bbm gumising kyo at intndhin ntin ang nangyyring pinaglalaban ng anti currupt icipn ntin pera ng bayan ang nawala,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.3182,negative
+DOC_001836,TikTok,"okay so i totally get what you mean and i agree to a degree BUT, theres always been tiny stuff gay people add to their outfits so that other gay people know. its just nice seeing another person from your community, someone you can relate to. the only example i could think of rn in the moment are carabiners, or cuffed jeans were also big at some point but again i do get what you mean. wearing something obviously doesnt make you gay but some people genuinely get offended when a gay person hits on them",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.10206207261596577,neutral,0.5267,positive
+DOC_001384,TikTok,Abeg remember to change the hair,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000894,TikTok,this is the best Ai have wach nest pla,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.3333333333333333,positive,0.6369,positive
+DOC_000141,YouTube,0:40 why did cherrita turn into a care bear,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.4939,positive
+DOC_000014,YouTube,"thanks for recording this. 
+such a hassle on the Apps and too many ads.
+this is a good watch. Justice is served.",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.42640143271122083,positive,0.8481,positive
+DOC_001926,TikTok,It seems I have watched the full movies cause everyday Adey see ein continues for my fyp,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001698,TikTok,panig lang sa tama Leveste go go lang,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001313,TikTok,"why is it whenever a man dumps a woman,he wants that woman to suffer,why men????",topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,-0.5661,negative
+DOC_002413,TikTok,I think ppl who have EVERYTHING to offer are often found by ppl who have nothing&take taketake until they can take from some1 else. She needs to find some1 who already has it all&wants to share it all,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.296,positive
+DOC_000540,YouTube,Lmao they rocketed to space,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.5994,positive
+DOC_001203,TikTok,"beautiful story line.....
+I am an editor too.... just dm",topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.31622776601683794,positive,0.5994,positive
+DOC_000367,YouTube,Woow..! Thank you.. thank you.. Thank you so much to you for saving money. Lots of love for you ,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.917662935482247,positive,0.8999,positive
+DOC_001727,TikTok,bro if the boy reject her after the transform this anime would be 100times better,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.2581988897471611,positive,0.0516,positive
+DOC_002726,TikTok,usher spain edition,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000008,YouTube,I was screaming Depaulo Demaro,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.3818,negative
+DOC_001755,TikTok,Im too fat for crop tops. So…,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.5106,positive
+DOC_002472,TikTok,His words always made me tear up! So soft spoken and real.,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001850,TikTok,"Ok… but I’m a female, happily married to a man and you’re just gorgeous. It’s your fault",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.8338,positive
+DOC_001530,TikTok,Taray level up may ibang languange na,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000242,YouTube,Aww thank U for this I really wanna watch this so bad the crow so cute,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.25,positive,0.2204,positive
+DOC_001665,TikTok,"Why is the crow lowkey serving plot? Cantina app, I’m locked in.",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001853,TikTok,Now girls blame us too? i hate being alive,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,-0.3333333333333333,negative,-0.5423,negative
+DOC_001549,TikTok,[Tears of joy][Tears of joy][Tears of joy][Tears of joy][Tears of joy] ضيعة رف الحمام [Tears of joy],topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.7003,positive
+DOC_001469,TikTok,How come he just realized that’s mother. Even it was his mother in-law that shouldn’t have happened,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000262,YouTube,Her mother is cute lol her logic filters are very selective,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.30151134457776363,positive,0.7003,positive
+DOC_001883,TikTok,Ahh so he's in love with kpanla??,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.5669467095138409,positive,0.7026,positive
+DOC_000024,YouTube,It’s like his family forgot that he is a don. Before they realised it they all had the guns to their heads. ,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.21320071635561041,positive,0.3612,positive
+DOC_000184,YouTube,"Tomorrow, at exactly 5. I will say hi on every last video of this stay tuned.By the way , why the drink flying 2:35",topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000908,TikTok,Amara the Prince will save you from that evil mother,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,-0.296,negative
+DOC_001841,TikTok,"What does it even mean to ""dress like a lesbian""? By what standards do we define this? Dress however you want and however you like",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.4,positive,0.6868,positive
+DOC_002202,TikTok,im so inlove with this series I want my own mafia husband,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0772,positive
+DOC_000214,YouTube,"This story is different from others, second time I've watched a protective parent",topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002211,TikTok,"Yung mga naghahanap na ng name of this AI actress hahaha.
+para madali mahanap mga series nya",topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.5574,positive
+DOC_002263,TikTok,che telecamere miracolose hanno a tempetion island?,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002031,TikTok,"Aura for Aura 
+love that",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.4472135954999579,positive,0.6369,positive
+DOC_002115,TikTok,I searched far and wide for the rest of this. Pune drama saved the day,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.4215,positive
+DOC_002548,TikTok,I feel like I’m the only one who hated Tayler,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,-0.4019,negative
+DOC_001531,TikTok,I will watch this after its free. Somebody please inform me once it free. Tq in advance,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.836,positive
+DOC_002104,TikTok,Omg tyy soo much for posting more of itplease continue with it,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000187,YouTube,What’d you expect its fruit love island lol,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.35355339059327373,positive,0.7906,positive
+DOC_002545,TikTok,I cried out my fresh lash set man I wanted to jump through the screen a,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,-0.0772,negative
+DOC_001736,TikTok,i read the manga of this anime and it's awesome the mc are green flag,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.2581988897471611,positive,0.6249,positive
+DOC_002462,TikTok,"she deserves so much , I hope she gets that love that never leaves",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.6933752452815365,positive,0.7964,positive
+DOC_001394,TikTok,You see how business flows well when you have supportive partner?,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.5106,positive
+DOC_000739,TikTok,Check bio for our official backup @dramavault_official ⬅,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001239,TikTok,"Be careful who you walk all over on, be very careful who you mistreat",topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.3597,positive
+DOC_001056,TikTok,one of the twins is a boy. it's a brother and sister.,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002608,TikTok,bro is gonna be on the news omg,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002638,TikTok,a good shirt hates to see that man coming,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.3333333333333333,positive,0.0,neutral
+DOC_000608,YouTube,Why can't they pronounce Leonidas and minstrel properly? ,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001022,TikTok,@dramavault14: Check bio for our official backup @dramavault_official ⬅,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000222,YouTube,Thank you. It's complete. Love channels like you. Much recommended.,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.9486832980505138,positive,0.875,positive
+DOC_000430,YouTube,There’s an exact equivalent Chinese version Omg. Who ever like this video must enjoy the liking of the Chinese.,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.4588314677411235,positive,0.8126,positive
+DOC_001754,TikTok,I’m sorry but it’s comfy. And I have no issue being mistaken for a lesbian,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.7351,negative
+DOC_001881,TikTok,the war between the land and the sea,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,-0.5994,negative
+DOC_001680,TikTok,god will always protect you sir,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.5719,positive
+DOC_001588,TikTok,I've tried to look for it but I haven't found it yet. It's on this channel called DramaFeverHour,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000448,YouTube,"A very nice movie ,i enjoyed it. Am subscribing please be posting more of these. ",topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.6454972243679028,positive,0.8268,positive
+DOC_000138,YouTube,People died in war for this,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.8176,negative
+DOC_002622,TikTok,i feel so bad for laughing bc he’s really in pain,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,-0.9045340337332909,negative,-0.6814,negative
+DOC_001768,TikTok,It’s so comfy tho  does my long almond nails balance it out? and my pink lipstick?,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002533,TikTok,Feeling this now. Feeling it always. Don’t think I’ll ever know staying.,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.25,positive
+DOC_000134,YouTube,"I’m not really a hater like this is funny to me and stupid also but don’t worry give this guy credit because this ain’t even his AI generated video like AI is really worse enough, but this one’s actually kind of funny. I don’t give credit to someone that’s not even putting the work they literally just stole this from another TikTok channel the acting like it’s theirs.",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.5457051563317492,positive,0.8648,positive
+DOC_000702,YouTube,All her dad know how to do is scream bro can’t say one word in a normal tone,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,-0.4019,negative
+DOC_000503,YouTube,"Which one god?
+Ishwar, Allah, Jesus, Waheguru, Brahm? Which one and who decides it? Lol",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.6641,positive
+DOC_000004,YouTube,Am just loving the wife and also how she protect his kids like her own because how she was also treated like a kid,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.4082482904638631,positive,0.8885,positive
+DOC_001719,TikTok,It’s like the inexperienced me and the experienced you but these arnt the main characters just side characters,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.23570226039551587,positive,0.1901,positive
+DOC_001497,TikTok,its literally just April from PaR,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001636,TikTok,I do prefer when they don’t have to die as doormats first,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.5994,negative
+DOC_000552,YouTube,"he is god but we have to see hour of him acting weak in front of mortals and whole melodrama, everyone have to complete their dialogues.",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.5106,negative
+DOC_000680,YouTube,Don't watch this movie wasted time,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,-0.4939,negative
+DOC_002763,TikTok,I understand why people in the Bible rip their clothes off they r actually going through it u know @kitanthephilosopher,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002428,TikTok,me too.. I have so much love to give and nobody seems to care ..they just take advantage of me,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.33541019662496846,positive,0.8651,positive
+DOC_000059,YouTube,Please upload the remaining episodes. Please.,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.5574,positive
+DOC_001002,TikTok,"Why all this questions Daniel
+Just walk out and go
+this lady is a devil in a sheep cloth",topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,-0.6597,negative
+DOC_001303,TikTok,I'm confused please who owns the company? Michael or Ethan,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,-0.31622776601683794,negative,0.0,neutral
+DOC_000205,YouTube,Got this story as an Youtube ad. And loved it. So searched for it here on Youtube. And glad I got to see this story.,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.4,positive,0.7845,positive
+DOC_002377,TikTok,we all felt her on a deeper level bc we were once in that position,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001953,TikTok,the scene where they are in phat's house and they put there mug and sat down asynchronously,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000382,YouTube,"Why Lord Leonidas dress like he’s gay? And if yes he is , how is that going to help Eris’s family in society.",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.21320071635561041,positive,0.7845,positive
+DOC_000454,YouTube,Amazing but i Skip my lunch to finish watching ,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.3333333333333333,positive,0.34,positive
+DOC_000828,TikTok,"Na lie , trust man on ur own risk",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.296,positive
+DOC_001845,TikTok,"I‘m into women and I always get perceived as straight. Just let people wear whatever they want,clothes have nothing to do with sexuality",topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.2263,positive
+DOC_001733,TikTok,lemme guess the next recap named jack and jenny,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002686,TikTok,i was waiting for the damn usher edits of montoya,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.4019,negative
+DOC_000478,YouTube,"Yeah, you fall in love with AI character",topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.35355339059327373,positive,0.7506,positive
+DOC_000027,YouTube,"Coming from instagram
+ thank you never had to pay to finish watching it. Was a good one.",topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.48507125007266594,positive,0.6904,positive
+DOC_001421,TikTok,The house and we will have it done and I have it on my calendar I will have to go to work and I have to go get the morning and I will be in the house and I have it on my new job and I will be there in about a half hour and a little bit ago and I have to go to the house phone number is the same as me and I will be there in a bit of the house phone number for the only thing that has to do it to you tomorrow and get it done and done the same thing about a little more and I have it done and done the morning to see if you don't mind me and I will be there at the same time as the only one that has to be done and I will be in the morning and I have to go get it done and I will be in the house and we will have it done by tomorrow and see what I can get together soon as I get home from work I have it done by tomorrow morning to see what happens next week and get it done and done the same thing about a little more about it tomorrow and see what happens with it I will have to go to the house and I have to go get it,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.1531,positive
+DOC_001343,TikTok,you guys should bring me back pls,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0772,positive
+DOC_002250,TikTok,twin stessa foto profilo,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001387,TikTok,We've been waiting for the next episode since Friday,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002374,TikTok,"i’ve said this countless times to myself and when she said that, is when i felt it in my heart that relate to her",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.6369,positive
+DOC_001767,TikTok,Chat im too insecure to wear anything else,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,-0.4215,negative
+DOC_001999,TikTok,Lol u can drive the truck,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.4215,positive
+DOC_000708,YouTube,Nope but the serie is interesting its ai artificial intelligence,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.31622776601683794,positive,0.8271,positive
+DOC_001395,TikTok,Pls continue the story abeg,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0772,positive
+DOC_001766,TikTok,Sorry to break it to you love but it’s the fact that you are gorgeous! Absolutely nothing to do with what you are wearing,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.20412414523193154,positive,0.8497,positive
+DOC_002077,TikTok,"First of all, hate that YET AGAIN, they made the thick girl skinny. Secondly, THE FAT MAN CALLING HER FAT?????? And why tf the daddy stand there and let his big ass talk crazy to his son that way?!",topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,-0.16012815380508713,negative,-0.8968,negative
+DOC_000245,YouTube,Thankyou for your support. keep watching other interesting videos as well.,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.6030226891555273,positive,0.7579,positive
+DOC_000377,YouTube,Wow This is  Thankyou for posting,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.4082482904638631,positive,0.5859,positive
+DOC_000446,YouTube,I like this movie very much ...so super good story .,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.7905694150420948,positive,0.8612,positive
+DOC_001012,TikTok,Daniel is boring asking too much questions nxaaaa!!,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,-0.35355339059327373,negative,-0.4374,negative
+DOC_000718,YouTube,Allah is created by Mohammad. So Mohammad is king of Allah,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.25,positive
+DOC_001623,TikTok,I just finished watching it. It is going under my favourited. Loved it!,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.2773500981126146,positive,0.636,positive
+DOC_001271,TikTok,Why is the guy acting like his the owner of the company,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.2886751345948129,positive,0.3612,positive
+DOC_001418,TikTok,Responsible guy whaoo,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.3182,positive
+DOC_001809,TikTok,Why should she change her style to appease men if it makes her uncomfortable?,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,-0.128,negative
+DOC_000512,YouTube,"Why so many ai drama more on bullying. 
+The writer maybe something stupid or what. Even the God's  seems like bullying too. Terrified",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.9322,negative
+DOC_001248,TikTok,God bless you brother vt,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.5994,positive
+DOC_000681,YouTube,idiot movie so very idiot and to much bullying,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.9016,negative
+DOC_001751,TikTok,Gender clothes is a construct. I’ve always just more boyish and I’m a straight person.,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.2263,positive
+DOC_000272,YouTube,Oh no no where's the rest of this amazing story??!,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.31622776601683794,positive,0.7929,positive
+DOC_002708,TikTok,Why me @Kurt-0  valid crashout,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002522,TikTok,Every single word she said felt so relatable it was hard not to cry with her.,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.2856,positive
+DOC_002208,TikTok,he must goo his cruel to he nieces,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,-0.35355339059327373,negative,-0.5859,negative
+DOC_000468,YouTube,Wait 2 more years and ai will dominate movies,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.128,negative
+DOC_002442,TikTok,Sorry but never put yourself down. It’s them not you!! Please always remember that. REJECTION IS REDIRECTION,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,-0.8758,negative
+DOC_000373,YouTube,"If this story leaves me hanging, i WILL NOT watch anymore of these. Ok. It redeemed itself. I loved the ending.  FINALLY!!!! 
+",topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.21320071635561041,positive,0.811,positive
+DOC_000402,YouTube,Ye appollo hamesha irene hurt hone k bad ata h,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,-0.6324555320336759,negative,-0.7845,negative
+DOC_001661,TikTok,gak bisa bahasa inggris,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001855,TikTok,But dressing like a boy has always been the most comfy way of dressing,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.2672612419124244,positive,0.5023,positive
+DOC_001295,TikTok,"That’s how some ex’s behave, they don’t love you but the fact that someone loves and treats you better than they did makes them jealous they always wish to see you tear apart",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.9011,positive
+DOC_001756,TikTok,Straight woman are co-opting our culture,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.2263,positive
+DOC_001729,TikTok,Relax Guys He Is A Side Character,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.4404,positive
+DOC_001284,TikTok,You know the rules bring me back pls,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0772,positive
+DOC_000078,YouTube,His nephew’s name is Marco DeMarco,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002095,TikTok,Its no in order [Crying][Crying][Crying],topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.296,negative
+DOC_001857,TikTok,Straight af but I‘ll not stop Like These outfits Are so wowi,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,-0.2773500981126146,negative,0.0302,neutral
+DOC_000156,YouTube,"When they were eating fruit, wasnt that cannibalism? ",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001813,TikTok,Well she said she doesn’t know how to dress straight I just answered her question if it’s uncomfortable than she doesn’t have to do it.,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.1027,positive
+DOC_002183,TikTok,at this point they should hire voice actors for these short films it will be better,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.25,positive,0.4404,positive
+DOC_002411,TikTok,She did come across as controlling though.. from how she spoke to how she looked at others. It may be a trauma response bc she had a wall up! That’s how I come across too. She’s protecting herself .,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,-0.4753,negative
+DOC_000049,YouTube,Straight to the point like a scalpel on skin. ,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.3333333333333333,positive,0.5267,positive
+DOC_000160,YouTube,Why DID the strawberry girl grab bananas dih when kissing,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.5719,positive
+DOC_001475,TikTok,heartless son & husband,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.4939,negative
+DOC_001454,TikTok,Poor little girl may God bless her,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,-0.3779644730092272,negative,0.1372,positive
+DOC_001349,TikTok,I even thought the house was for her when she rejected the offer,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,-0.5106,negative
+DOC_001591,TikTok,I also noticed and I am so disappointed cos I lost a drama i was watching before the update happened. the demoted wife,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,-0.3127716210856122,negative,-0.7424,negative
+DOC_000912,TikTok,next my Eviel step mother,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000035,YouTube,Whoever made this one! Wow! My absolutely favourite story!,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.3333333333333333,positive,0.6884,positive
+DOC_000839,TikTok,never ever put your trust in the fellow human being coz can promise u today and tomorrow will let you down,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.6808,positive
+DOC_000140,YouTube,THANK YOU FOR BLESSING THE EARTH WITH THIS MASTERPIECE COMPARABLE TO HAZBIN HOTEL,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.2773500981126146,positive,0.8904,positive
+DOC_000906,TikTok,you are being mistreated one day everything will be fine next episode please,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.4767,positive
+DOC_000278,YouTube,​​ @thereviewspot07 or were those other eggs destroyed,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.4939,negative
+DOC_001122,TikTok,Happy birthday  stranger ,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.5773502691896258,positive,0.5719,positive
+DOC_000057,YouTube,Poor girl. She never change her clothes,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,-0.3779644730092272,negative,-0.4767,negative
+DOC_001501,TikTok,anyone else think the twin brothers name should have been moe,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001026,TikTok,"Bo lin I love you my guy, but you should have kept her",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.2773500981126146,positive,0.3818,positive
+DOC_000496,YouTube,"Lol I just watched an exact duplicate of this movie, But instead of gods , they All had like animal hybrid qualities. Almost word for word the exact movie , but with different characters and setting. This is getting crazy",topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.16222142113076254,positive,0.2617,positive
+DOC_000256,YouTube,The story is so cute hahahaha,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.6123724356957946,positive,0.5949,positive
+DOC_001622,TikTok,"OMG, i saw this and it was amazing. She didn't fall in love but saw the greater goal of putting her child on the throne and becoming Doweger Empress and rule the kingdom through her child.",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.5371,positive
+DOC_001076,TikTok,Kora is the worst part of tlok..,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,-0.3779644730092272,negative,-0.6249,negative
+DOC_002751,TikTok,@The Electronic Bushman,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000493,YouTube,Agree why so much shooting it sound like need anger management lmao,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.2886751345948129,positive,0.6369,positive
+DOC_002109,TikTok,I came form Instagram  to watch the rest they want me to pay,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,-0.0258,neutral
+DOC_002026,TikTok,I really love this movie please the title,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.5303300858899106,positive,0.7778,positive
+DOC_000019,YouTube,Imma loving this video,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.5994,positive
+DOC_000577,YouTube,"Akiane whether you like it or not, we are empathic and you cannot keep me out of your mind or every thought you have. My love. Neither can I do this thing, even though I try all the time. My love",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.4685212856658182,positive,0.8979,positive
+DOC_002460,TikTok,The fact I pushed him to the end and he still stayed. It wasn’t until I realized no matter how poorly I treated him he was going to stay was I able to let myself really love him. This past year in therapy I realized it was my way of protecting myself because everyone else has left me eventually,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.19528336647123581,positive,0.6618,positive
+DOC_001672,TikTok,mag iingat po kayu Cong leveste,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.5574,negative
+DOC_002495,TikTok,"She’s such an incredible woman, ugh this is heartbreaking",topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.3333333333333333,positive,-0.7251,negative
+DOC_002674,TikTok,I legit thought this was telenovela or summ,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000157,YouTube,I get that the polar bears are being killed and shi but im at 36 seconds and kiwi is so obviously the best character because he treats mangela well,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.2834733547569204,positive,0.7961,positive
+DOC_000150,YouTube,Hollyyyyy bananito a playa,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001197,TikTok,Cynthia’s success and happiness,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.8074,positive
+DOC_001584,TikTok,Story of yunxi palace,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002484,TikTok,"My girl needs a hug.. she’s so beautiful and not just looks but you can tell she has a huge heart and is super genuine. I feel her words, it’s not you girl, it’s them",topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.253546276418555,positive,0.9625,positive
+DOC_000847,TikTok,never trust a broke mans word especially,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,-0.0951,negative
+DOC_002120,TikTok,Am coming back ooo pls next,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0772,positive
+DOC_001849,TikTok,Babe we don't wanna be straight anymore[Risa aprobada][Conmovedor],topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,-0.1695,negative
+DOC_001747,TikTok,"Let people make jokes holy shit, obviously she doesn’t think this will convince everyone to change their styles u guys r so annoying",topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,-0.3127716210856122,negative,-0.6238,negative
+DOC_000136,YouTube,"Our climate clock has 3 years..this is not funny yk..we might even have to limit the water we drink in general just because some dumbasses think making stupid ai slop is funny and is gonna get them money..genuinely I’m just gonna ask politely..stop using ai for such things..ai isnt terrible..if used correctly it can help us way more then we imagine..but just making videos isn’t one of them..we won’t even be able to get access to water and we won’t even have Antarctica.or even ice!..it won’t even snow..not even in the coldest country..why?.because of people who think they will be “fine” and think it’s just a joke..but no everyone who does such a thing is a joke themselves since they think they will be “fine” without water id like to see them get through even 2 days without water without getting sick or their throat probably begging for liquids..and no this isn’t supposed to be a funny joke this is supposed to be an example of how crooked our earth is getting because of careless humans like them who doesn’t care about our planet now knowing the danger that’s going to come alongside with it..the climate clock has 3 years left..after that climate change,global warming and climate crisis becomes irreversible..alot of animals will go extinct…ice bergs will melt..we will lose Antarctica..we won’t have access to clean water and much more..!!!!
+
+
+(Sorry for the long paragraph but you may copy this and spread it around)",topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.1849879247934622,positive,-0.3963,negative
+DOC_000007,YouTube,It days DeMarco but I hear otherwise.,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001144,TikTok,Micheal is about to lose his job,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,-0.4019,negative
+DOC_002765,TikTok,it’s what Usher music video tried to convey,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000011,YouTube,This was … everything. That’s a Don with class and style and good wife by his side,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.25,positive,0.4404,positive
+DOC_001126,TikTok,Have an unforgettable birthday celebration!!!,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000924,TikTok,I wish I could learn to create masterpieces like this too,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.30151134457776363,positive,0.8689,positive
+DOC_002512,TikTok,She’s so beautiful and I wanted her to know that she is loved! And doesn’t need a man to know that she is loved!,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.7144345083117604,positive,0.9271,positive
+DOC_001461,TikTok,They sure doing a lot of slaps and kicks in this movie,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.3182,positive
+DOC_002022,TikTok,I love her temper [Heartwarming][Heartwarming][Red heart] saw them what you are,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.8320502943378437,positive,0.765,positive
+DOC_000709,YouTube,Very Cheap fairy tale,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002498,TikTok,the pain we all share and carry as women,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,-0.3333333333333333,negative,-0.2732,negative
+DOC_002617,TikTok,hes a reasonable crashout tho,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002606,TikTok,yo hes planning something beyond devious im telling u,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002634,TikTok,Omg I need to watch lollll,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000054,YouTube,"It said it was full movie, but it finished with a cliff hanger so not complete otherwise good movie",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,-0.22941573387056174,negative,-0.4782,negative
+DOC_000970,TikTok,"The film's title is ""The Thieves and the Liars"" (the condition).",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.7717,negative
+DOC_000199,YouTube,Respect for dropping the full series without any other random ads or something,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.4767,positive
+DOC_002645,TikTok,Yeah that’s lowkey very hard to do,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.1298,positive
+DOC_002552,TikTok,@kaizu ts was so sad to watch,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,-0.5669467095138409,negative,-0.6113,negative
+DOC_000347,YouTube,"Love the story!! Thank you so much for making this, so generous to share this film. God bless",topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.47140452079103173,positive,0.9577,positive
+DOC_000842,TikTok,"Telling person ,dem no telling person ehhhh Them tell you ,you no hear",topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,-0.5267,negative
+DOC_001987,TikTok,"What makes you say that coz I've watched that movie and it's so interesting beside they're promoting that Mercedes G-Wagon with all it features
+I'll send you the trailer then daah",topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.2651650429449553,positive,0.7177,positive
+DOC_002769,TikTok,its the wet sand slap for me LOOOOL,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.1531,positive
+DOC_002755,TikTok,Crashout king I love him,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.4472135954999579,positive,0.6369,positive
+DOC_000948,TikTok,"""The star's secret family "".. same story with different AI Actirs.",topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001405,TikTok,Standing in your building as how nah,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,-0.1027,negative
+DOC_002735,TikTok,He had the most Normal reaction a person could’ve had,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002181,TikTok,I love the man he looks dangerously cute,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.7071067811865475,positive,0.6369,positive
+DOC_001120,TikTok,Happy birthday long life and prosperity is your portion,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.3333333333333333,positive,0.5719,positive
+DOC_000614,YouTube,"This is exact copy of ""Married to the hidden dragon king"" even the dialogues are same ",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001778,TikTok,"how does this have anything to do with clothing being exclusive to one specific sexuality or gender? it's not a knowledge issue here you are talking nonsense, clothing is not exclusive to one sexuality",topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,-0.3757,negative
+DOC_000568,YouTube,Wait did I her it right? Leonidas in Athens? Did Leonidas was a sparta a king  not a noble man.,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.4291,negative
+DOC_000249,YouTube,Wow nice lovely story,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,1.5,positive,0.886,positive
+DOC_000202,YouTube,The mother is motheringggggg. Her AI design is so pretty,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.6269,positive
+DOC_002451,TikTok,"""I'm not surprised I'd probably leave myself too"" this hit hard",topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,-0.3107,negative
+DOC_001604,TikTok,"yes she wss reborn
+there's more on tix tox",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.4019,positive
+DOC_001010,TikTok,she's dangerous karma is coming to her,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,-0.4767,negative
+DOC_000045,YouTube,"OMG i love this 
+Where's the rest please",topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.35355339059327373,positive,0.7579,positive
+DOC_001901,TikTok,the land between the land and the sea,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000318,YouTube,I believe it’s actually uploads of the those apps that read stories similar to Wattpad in ai and make Ai films to go with it,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000494,YouTube,Please upload also the season  2 of ELF Prince  my baby daddy... Full episode please ..thank you .. its very nice series season one i fully watch already...,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.4902903378454601,positive,0.8479,positive
+DOC_000823,TikTok,Nothing fit make me trust man for this life,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.2937,positive
+DOC_000348,YouTube,"Intriguing story and plot. Yet, it's gut wrenching and a wonderful story between the evil sister and the pure goodness of Lady Irene.",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.20851441405707477,positive,0.3182,positive
+DOC_001160,TikTok,Nne please drop the finalllll parttttt,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0516,positive
+DOC_002162,TikTok,I was confused cause she ain think she needed food with that jacket,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,-0.2773500981126146,negative,-0.3182,negative
+DOC_001788,TikTok,"i mean??? even homophobic people know about that term, are you living under a roch",topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000714,YouTube,Some lunatic made this. Waste of time. No logic at all,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,-0.30151134457776363,negative,-0.802,negative
+DOC_002324,TikTok,Sometimes people don’t know what to do with previous things because it was never their experience. Sometimes people want different things. That doesn’t make you less great.,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.19245008972987526,positive,0.6258,positive
+DOC_002231,TikTok,this is how we should stand up for our kids thank you Aurora,topic_train,Relating to Characters & Their Stories,ASK GROUP TOM.,0.2773500981126146,positive,0.3612,positive
+DOC_000194,YouTube,I really want this right now my dream with all the people well but the strawberry is just big,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.3284,positive
+DOC_001669,TikTok,This AI shi be makin me mad sometimes messing up the plot and shi,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,-0.2672612419124244,negative,-0.4939,negative
+DOC_000899,TikTok,the evil step mother part 2 3 4,topic_train,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.6597,negative
+DOC_000122,YouTube,Ok imma watch this and see how many brain cells I lose,topic_train,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,-0.128,negative
+DOC_001638,TikTok,Thank you so much no it’s not me. They are totally stealing my videos and recorded. TikTok says they’re doing nothing wrong. I don’t know what else to do.,topic_holdout,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.3437,negative
+DOC_001653,TikTok,fr this ai video is smooth not like other people they posted is a delay,topic_holdout,Character Reactions & Pop-Culture References,ASK GROUP TOM.,-0.2581988897471611,negative,-0.5283,negative
+DOC_000363,YouTube,Bro the fmaily was so annoying that i just had to see what kinda revenge they'd get and then came here ,topic_holdout,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,-0.3273268353539886,negative,-0.7648,negative
+DOC_001792,TikTok,also there are not any clothes that are inherently ‘queer’. its not like cultural attire.,topic_holdout,Relating to Characters & Their Stories,ASK GROUP TOM.,-0.2581988897471611,negative,-0.2755,negative
+DOC_000810,TikTok,Wrong advice Trust Me,topic_holdout,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,-0.5,negative,0.0516,positive
+DOC_002302,TikTok,My husband looked at me and said “she is so worthy. Someone needs to hug her”,topic_holdout,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.7809,positive
+DOC_001426,TikTok,"fuck ai, watch the ones w real actors",topic_holdout,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.5423,negative
+DOC_000880,TikTok,Rolls Royce is not allowed in uganda,topic_holdout,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002020,TikTok,Coming from the future to say it's worth the watch,topic_holdout,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.2263,positive
+DOC_001049,TikTok,You may express your joy through tears,topic_holdout,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.4404,positive
+DOC_001046,TikTok,The only reason I watch this series,topic_holdout,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001668,TikTok,Girl since when did you spend all your life with crow,topic_holdout,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001673,TikTok,May God bless and protect you always,topic_holdout,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.7579,positive
+DOC_001618,TikTok,pls is it on moviebox if yes pls the title,topic_holdout,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.5106,positive
+DOC_002023,TikTok,wow i already love the bride,topic_holdout,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.8164965809277261,positive,0.8402,positive
+DOC_001776,TikTok,"masculine presenting lesbians for example, have suffered MURDER through out our queer history, I am not the one that’s gonna educate you on this topic, jf you actually care, you’re gonna do it on your own, I gave you a good start so google is free",topic_holdout,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.14744195615489714,neutral,0.0079,neutral
+DOC_001800,TikTok,Dressing masculine is one of the easiest things to accidentally do its j a regular shirt and baggy pants,topic_holdout,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.1027,positive
+DOC_000164,YouTube,Bluds crazy over ai slop is wild ,topic_holdout,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,-0.34,negative
+DOC_000331,YouTube,Just got addicted to this drama. And finally found it here. Amazing movie.  Thanks for uploading.  ,topic_holdout,Relating to Characters & Their Stories,ASK GROUP TOM.,0.5,positive,0.7717,positive
+DOC_002248,TikTok,"Same here,hate it. Why do they always ruin a good story by making the curvier girl lose weight? She was perfectly fine the way she was. I stopped watching as soon as they made her skinny. I just lost interest.",topic_holdout,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.296,positive
+DOC_002452,TikTok,This scene crushed meeeee WHAT DID I DO,topic_holdout,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,-0.4215,negative
+DOC_001790,TikTok,apparently not knowing and not being interested in queer history is homophobic now? just proving my point by the way . superiority complex at its finest. ill just call you racist and call it a day.,topic_holdout,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,-0.7689,negative
+DOC_002690,TikTok,Heart ain't a organ to play with,topic_holdout,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.765,positive
+DOC_002647,TikTok,Yh cause he doing too much seeing his long term girlfriend getting in clapped deeper 4k id definitely try drown myself lol,topic_holdout,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.2023,positive
+DOC_002614,TikTok,"He will eventually resent her, it's just a matter of time. Men don't forgive cheating",topic_holdout,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.1306,positive
+DOC_001016,TikTok,"That's what they do now, they stick and decide to search for another gold to dig wen you are drained out",topic_holdout,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,-0.3612,negative
+DOC_000725,YouTube,"Allah prepare tests for his creature mankind and Jinn in the Earth, not in the heaven.  So why the test is running in the heaven in your story?? It is unrealistic and non religious!! Greek mythology is a nonsense fiction. There is no least of true in this story.",topic_holdout,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,-0.3498,negative
+DOC_000727,TikTok,Even the water is Rolls royce,topic_holdout,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001806,TikTok,But I’m a tomboy  idk how to dress “straight”,topic_holdout,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,-0.1531,negative
+DOC_001927,TikTok,But Fish is a normal protein for man right?,topic_holdout,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001739,TikTok,"This guy is the friend of the main character  The actual anime is about 2 completely different people. The name of the anime is ""Our dating story: the experienced you and the inexperienced me""",topic_holdout,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.4939,positive
+DOC_000099,YouTube,"I love their new mom ,,Grandma and the her daughter is wecked but I like as the wife teach them a lesson",topic_holdout,Relating to Characters & Their Stories,ASK GROUP TOM.,0.42640143271122083,positive,0.705,positive
+DOC_000511,YouTube,That male character name is francesco edwin.,topic_holdout,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002740,TikTok,@luvbhadbtches  what is wrong w himmm,topic_holdout,Character Reactions & Pop-Culture References,ASK GROUP TOM.,-0.4082482904638631,negative,-0.4767,negative
+DOC_001859,TikTok,"I wear sun dresses and skirts but whaaat? Girls, wear whatever you want, you are not responsible for mans behavior",topic_holdout,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,-0.2484,negative
+DOC_000536,YouTube,"The story is copied by a hindi, Indian drama and mixed with some other dramas. But I like it.",topic_holdout,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.22941573387056174,positive,0.5023,positive
+DOC_000971,TikTok,hahaha this is amazing and awesome,topic_holdout,Relating to Characters & Their Stories,ASK GROUP TOM.,0.8164965809277261,positive,0.91,positive
+DOC_002238,TikTok,I love her hope she will not change her body,topic_holdout,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.6324555320336759,positive,0.7964,positive
+DOC_002078,TikTok,his dad is so useless omg,topic_holdout,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,-0.5598,negative
+DOC_001423,TikTok,"""Standing in your building""
+This guy dey gba mentally",topic_holdout,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001471,TikTok,the customers be like: OH MY GOD A FREE TV IN FRONT OF MY EYES,topic_holdout,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.2581988897471611,positive,0.8543,positive
+DOC_000238,YouTube,Nice one I feel back my childhood alway watching fantacy story,topic_holdout,Relating to Characters & Their Stories,ASK GROUP TOM.,0.30151134457776363,positive,0.4215,positive
+DOC_001114,TikTok,Happy birthday sweetheart,topic_holdout,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.5773502691896258,positive,0.8402,positive
+DOC_002547,TikTok,Yessss !!! This scene was so good !! I’m for Taylor and Kay’s happiness,topic_holdout,Relating to Characters & Their Stories,ASK GROUP TOM.,0.43301270189221935,positive,0.8594,positive
+DOC_000098,YouTube,Curvy wife was more beautiful why they called her fat ,topic_holdout,Relating to Characters & Their Stories,ASK GROUP TOM.,0.31622776601683794,positive,0.6361,positive
+DOC_001087,TikTok,Pass the control if you ain’t gone play the game,topic_holdout,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.34,positive
+DOC_000003,YouTube,Aw he loved her before she lost weight,topic_holdout,Relating to Characters & Their Stories,ASK GROUP TOM.,0.35355339059327373,positive,0.3818,positive
+DOC_000267,YouTube,Posted please check will post 4th part soon as well,topic_holdout,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.5267,positive
+DOC_002502,TikTok,"Sitting here crying bc I literally told myself today that it’s okay for me to have no one. I’m not worthy. If my parents don’t want me, who would?",topic_holdout,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.6711,negative
+DOC_001246,TikTok,good victor dnt tak her back love your money,topic_holdout,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.6666666666666666,positive,0.7964,positive
+DOC_002259,TikTok,wow che novità,topic_holdout,Relating to Characters & Their Stories,ASK GROUP TOM.,0.5773502691896258,positive,0.5859,positive
+DOC_001386,TikTok,Why u never drop the next episode 3 days now,topic_holdout,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.2057,positive
+DOC_000115,YouTube,I think everyone who unironically enjoyed and voted on this show should be lab rats,topic_holdout,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.2581988897471611,positive,0.5106,positive
+DOC_002037,TikTok,Oh finally I can watch without paying,topic_holdout,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002215,TikTok,loving you mommy protector,topic_holdout,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,0.5994,positive
+DOC_000195,YouTube,"Kiwilo kinda like the host's , brother",topic_holdout,Relating to Characters & Their Stories,ASK GROUP TOM.,0.4082482904638631,positive,0.2975,positive
+DOC_000705,YouTube,in world's completely have a cruel people in whatever condition position and situation..but in Olympus world... have to also?...what a joke and jerk story... ,topic_holdout,Character Reactions & Pop-Culture References,ASK GROUP TOM.,-0.19611613513818404,negative,-0.6444,negative
+DOC_002523,TikTok,I didn’t leave… she pushed me away… even after that I’m still here trying. Idk how much selfrespect I can lose for her but it aint gnna last. Once I leave fr not on me. God Knows so thank you Lord,topic_holdout,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.2342606428329091,positive,0.082,positive
+DOC_001181,TikTok,Why won’t Michael allow this lady to enjoy her life in peace and just let her shine with her new man ehn shuuuu,topic_holdout,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.20851441405707477,positive,0.8225,positive
+DOC_000130,YouTube,"Candy wow, chocolatina is so serious and knows what she wants",topic_holdout,Relating to Characters & Their Stories,ASK GROUP TOM.,0.30151134457776363,positive,0.4694,positive
+DOC_002586,TikTok,one clip of him screaming in the rain and you have the best videoclip of 2025,topic_holdout,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.2581988897471611,positive,0.3818,positive
+DOC_002473,TikTok,here come the tears again. I felt this deep in my soul and wanted to hug her,topic_holdout,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.296,positive
+DOC_000137,YouTube,"@FUR1NAA44 (noone copy this) look we will still have water, antartica will still be here and ai moderation is key. I use janitor and even i think your joking as you tend to forget that there are plans to make ai safer (the future will tell)",topic_holdout,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.4215,positive
+DOC_001231,TikTok,Was going since I don Dey enter this page drop another one na,topic_holdout,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,-0.2732,negative
+DOC_001866,TikTok,I’m honestly this close to wearing a fake mustache just to be left alone.,topic_holdout,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,-0.2732,negative
+DOC_001261,TikTok,She dey bore me sef,topic_holdout,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.25,negative
+DOC_002676,TikTok,YALL OUR BOY MONTOYA GOT HIS GET BACK!!HE CRUSHED SHORTY,topic_holdout,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.5242,negative
+DOC_000474,YouTube,This trope is way too common now :D Sever the ties? The MC arrives super fast...,topic_holdout,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.8374,positive
+DOC_001772,TikTok,boxers don’t have historical or cultural meaning,topic_holdout,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_002636,TikTok,It’s crazyyyyy! The only thing is Spanish ppl from Spain love using slang  had to google a few words here and there.. but the buttons flying off Montoya’s shirts very much gave international,topic_holdout,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.17407765595569785,positive,0.4389,positive
+DOC_000275,YouTube,Arent they supposed to be reborn after dying?,topic_holdout,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_001196,TikTok,Wat dey worry Micheal,topic_holdout,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.4404,negative
+DOC_000013,YouTube,"Wow I love this movie, she knows how to fight back and never let anyone to bully her and her kids even though they not belong to her. Well done hope they always make this kind of movie. ",topic_holdout,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.48666426339228763,positive,0.802,positive
+DOC_000089,YouTube,Why skip through a lot of parts and hold out episodes ? I guess they don’t like shares or likes on this profile thanks for the teaser,topic_holdout,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.8126,positive
+DOC_001959,TikTok,Ortu plonga plongo ku,topic_holdout,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral
+DOC_000048,YouTube,Please ohhh post the rest let me turn on notifications so I don’t miss it,topic_holdout,Relating to Characters & Their Stories,ASK GROUP TOM.,0.0,neutral,0.1119,positive
+DOC_002672,TikTok,Right!! Rob is like a 10% dramatic person,topic_holdout,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.3779644730092272,positive,-0.3987,negative
+DOC_001856,TikTok,You’re right. My husband already lets me know I look like a hot coastal lesbian every time I wear linen. I think he’s jealous I could probably pull more girls than him but siiiiigh. Yes. I’ll stop.,topic_holdout,Relating to Characters & Their Stories,ASK GROUP TOM.,0.1643989873053573,positive,0.128,positive
+DOC_001876,TikTok,Wait he and they kiss omo howw,topic_holdout,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.4215,positive
+DOC_000544,YouTube,"It started with a sponsored ads, and here I am hahaha Omg I'm kinda afraid with AI now, what do you mean AI can already made an excellent movies like this??! Anyway this video intentionally skip their honeymoon part just saying",topic_holdout,Relating to Characters & Their Stories,ASK GROUP TOM.,0.31234752377721214,positive,0.8873,positive
+DOC_002482,TikTok,Why I will never ever be open to dating again. When people get to know me they leave... So real she deserves the world!,topic_holdout,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,-0.126,negative
+DOC_000228,YouTube,Respect... you posted the whole video.. thank you ,topic_holdout,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.35355339059327373,positive,0.6808,positive
+DOC_001912,TikTok,is this Dr who? idk if its just ai being ai but one of the other kids called her Kate and that it was unit,topic_holdout,"Recommendations, Promo & Self-Reflection",ASK GROUP TOM.,0.0,neutral,-0.0516,negative
+DOC_000274,YouTube," Support My Hard Work & Dedication! 
+ Subscribe & Support:
+https://www.youtube.com/channel/UCZRmUsVy-wUabGxnkKPMgjA?sub_confirmation=1",topic_holdout,Relating to Characters & Their Stories,ASK GROUP TOM.,0.5,positive,0.6476,positive
+DOC_001843,TikTok,"hahhahahaha i salute you for your service, nothing but love for my straight girlies",topic_holdout,Relating to Characters & Their Stories,ASK GROUP TOM.,0.2672612419124244,positive,-0.4943,negative
+DOC_001388,TikTok,Be like say this story na once in a week abii since 3das ago,topic_holdout,Relating to Characters & Their Stories,ASK GROUP TOM.,0.2672612419124244,positive,0.3612,positive
+DOC_001206,TikTok,Narcissists don’t allow you shine!! They don’t withstand peace and growth,topic_holdout,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.8217,positive
+DOC_001430,TikTok,"Josephine
+poor girl part two",topic_holdout,Relating to Characters & Their Stories,ASK GROUP TOM.,-0.4472135954999579,negative,-0.4767,negative
+DOC_001610,TikTok,keep searching and watch them alot .They will pop up,topic_holdout,Character Reactions & Pop-Culture References,ASK GROUP TOM.,0.0,neutral,0.0,neutral

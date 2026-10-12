@@ -1,0 +1,4 @@
+Topic,Topic Category,Top words,Train docs,Holdout docs,Share of train %
+0,"Recommendations, Promo & Self-Reflection","life, love, cute, funny, trust, lol, person, literally",216,19,27.3
+1,Character Reactions & Pop-Culture References,"people, love, user, god, bro, bad, real, time",319,34,40.3
+2,Relating to Characters & Their Stories,"story, girl, time, loved, hard, rest, love, mark",257,36,32.4
